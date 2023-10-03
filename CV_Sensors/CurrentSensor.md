@@ -8,7 +8,9 @@ ACS37002lmabtr - 066U5M Datasheet en la carpeta de proyecto.
 TMCS1100 Datasheet en la carpeta de proyecto.
 
 Sensores que manejan I2C :
-  - INA238.
+  - INA 238.
+  - INA 3221 Pref
+  - INA 219 Pref
 
 
 
