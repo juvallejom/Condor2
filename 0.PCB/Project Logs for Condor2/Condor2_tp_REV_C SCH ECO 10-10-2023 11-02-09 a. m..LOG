@@ -1,0 +1,16 @@
+Change Component Designator: Old Designator=ADC_PR1 New Designator=ADC_PR?
+Change Component Designator: Old Designator=D_RDY1 New Designator=D_RDY?
+Change Component Designator: Old Designator=S4 New Designator=S?
+Change Component Designator: Old Designator=S5 New Designator=S?
+Change Component Designator: Old Designator=S6 New Designator=S?
+Change Component Designator: Old Designator=S7 New Designator=S?
+Change Component Designator: Old Designator=S8 New Designator=S?
+Change Component Designator: Old Designator=S9 New Designator=S?
+Change Component Designator: Old Designator=S10 New Designator=S?
+Change Component Designator: Old Designator=S11 New Designator=S?
+Change Component Designator: Old Designator=S12 New Designator=S?
+Change Component Designator: Old Designator=S13 New Designator=S?
+Change Component Designator: Old Designator=SPI!CS1 New Designator=SPI!CS?
+Change Component Designator: Old Designator=SPI_MISO1 New Designator=SPI_MISO?
+Change Component Designator: Old Designator=SPI_MOSI1 New Designator=SPI_MOSI?
+Change Component Designator: Old Designator=SPI_SCK1 New Designator=SPI_SCK?

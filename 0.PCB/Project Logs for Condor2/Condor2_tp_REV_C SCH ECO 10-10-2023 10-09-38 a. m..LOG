@@ -1,0 +1,11 @@
+Change Component Designator: Old Designator=ADC_PR New Designator=ADC_PR1
+Change Component Designator: Old Designator=S1RX New Designator=S5
+Change Component Designator: Old Designator=S1TX New Designator=S4
+Change Component Designator: Old Designator=S2RX New Designator=S7
+Change Component Designator: Old Designator=S2TX New Designator=S6
+Change Component Designator: Old Designator=S3RX New Designator=S9
+Change Component Designator: Old Designator=S3TX New Designator=S8
+Change Component Designator: Old Designator=S4RX New Designator=S11
+Change Component Designator: Old Designator=S4TX New Designator=S10
+Change Component Designator: Old Designator=S5_RX New Designator=S13
+Change Component Designator: Old Designator=S5_TX New Designator=S12

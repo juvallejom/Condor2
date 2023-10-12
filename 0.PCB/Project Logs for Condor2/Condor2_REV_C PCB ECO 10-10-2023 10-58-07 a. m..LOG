@@ -1,0 +1,37 @@
+Change component parameters: Designator = "Nut 2" ("Nut 2"); Footprint = "PEM-SMTSO-M1.6-2-ET"; UniqueID = "\HLUBKGKQ" ("\HLUBKGKQ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "pemnet"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "INTEL_CB"
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2

@@ -1,0 +1,59 @@
+Change component parameters: Designator = "Nut 2" ("Nut 2"); Footprint = "PEM-SMTSO-M1.6-2-ET"; UniqueID = "\HLUBKGKQ" ("\HLUBKGKQ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "pemnet"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "INTEL_CB"
+Added Component: Designator=R1(0402-RES)
+Added Component: Designator=R2(0402-RES)
+Added Component: Designator=R3(0402-RES)
+Added Component: Designator=R4(0402-RES)
+Added Component: Designator=R5(0402-RES)
+Added Component: Designator=R6(0402-RES)
+Added Component: Designator=R7(0402-RES)
+Added Component: Designator=R8(0402-RES)
+Added Component: Designator=R9(0402-RES)
+Added Component: Designator=R10(0402-RES)
+Added Component: Designator=R11(0402-RES)
+Added Pin To Net: NetName=NetR1_P$1 Pin=R1-P$1
+Added Pin To Net: NetName=4V38 Pin=R1-P$2
+Added Pin To Net: NetName=GND Pin=R2-P$1
+Added Pin To Net: NetName=NetR1_P$1 Pin=R2-P$2
+Added Pin To Net: NetName=FAULT Pin=R3-P$1
+Added Pin To Net: NetName=1V8 Pin=R3-P$2
+Added Pin To Net: NetName=GND Pin=R4-P$1
+Added Pin To Net: NetName=PSW Pin=R4-P$2
+Added Pin To Net: NetName=NetLED1_A Pin=R5-P$1
+Added Pin To Net: NetName=VSYS Pin=R5-P$2
+Added Pin To Net: NetName=NetLED2_A Pin=R6-P$1
+Added Pin To Net: NetName=VSYS Pin=R6-P$2
+Added Pin To Net: NetName=VSYS Pin=R7-P$1
+Added Pin To Net: NetName=4V38 Pin=R7-P$2
+Added Pin To Net: NetName=NetR8_P$1 Pin=R8-P$1
+Added Pin To Net: NetName=VSYS Pin=R8-P$2
+Added Pin To Net: NetName=NetR9_P$1 Pin=R9-P$1
+Added Pin To Net: NetName=1V8 Pin=R9-P$2
+Added Pin To Net: NetName=PWRBTN# Pin=R10-P$1
+Added Pin To Net: NetName=NetR8_P$1 Pin=R10-P$2
+Added Pin To Net: NetName=1V8 Pin=R11-P$1
+Added Pin To Net: NetName=RESET_OUT# Pin=R11-P$2
+Added Member To Class: ClassName=Condor2_NTEL_REV_C Member=Component R1 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2_NTEL_REV_C Member=Component R2 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2_NTEL_REV_C Member=Component R3 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2_NTEL_REV_C Member=Component R4 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2_NTEL_REV_C Member=Component R5 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2_NTEL_REV_C Member=Component R6 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2_NTEL_REV_C Member=Component R7 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2_NTEL_REV_C Member=Component R8 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2_NTEL_REV_C Member=Component R9 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2_NTEL_REV_C Member=Component R10 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2_NTEL_REV_C Member=Component R11 RESISTOR0402-RES

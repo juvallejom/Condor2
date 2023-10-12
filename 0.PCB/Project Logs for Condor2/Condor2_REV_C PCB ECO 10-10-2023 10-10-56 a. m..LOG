@@ -1,0 +1,181 @@
+Change Component Footprint: Designator=P500 Old Footprint= New Footprint=CON-DF17-80M
+Change Component Comment : Designator=C600 Old Comment= New Comment=CAP0603
+Change Component Comment : Designator=L601 Old Comment= New Comment=INDUCTOR0805
+Change Component Comment : Designator=BATT600 Old Comment= New Comment=MS621FE
+Change Component Comment : Designator=C603 Old Comment=33000pf New Comment=0u1
+Change Component Comment : Designator=S601 Old Comment=FWR_RCVR New Comment=RCVR_MODE
+Change Component Comment : Designator=S600 Old Comment=Power New Comment=RCVR_MODE
+Change Component Designator: OldDesignator=ADC_PR NewDesignator=ADC_PR1
+Change Component Designator: OldDesignator=BATT600 NewDesignator=BATT1
+Change Component Designator: OldDesignator=C600 NewDesignator=C1
+Change Component Designator: OldDesignator=C601 NewDesignator=C2
+Change Component Designator: OldDesignator=C602 NewDesignator=C3
+Change Component Designator: OldDesignator=C603 NewDesignator=C4
+Change Component Designator: OldDesignator=C604 NewDesignator=C6
+Change Component Designator: OldDesignator=C605 NewDesignator=C5
+Change Component Designator: OldDesignator=D100 NewDesignator=D1
+Change Component Designator: OldDesignator=D101 NewDesignator=D2
+Change Component Designator: OldDesignator=D102 NewDesignator=D3
+Change Component Designator: OldDesignator=D103 NewDesignator=D4
+Change Component Designator: OldDesignator=D104 NewDesignator=D5
+Change Component Designator: OldDesignator=D105 NewDesignator=D6
+Change Component Designator: OldDesignator=D106 NewDesignator=D7
+Change Component Designator: OldDesignator=D107 NewDesignator=D8
+Change Component Designator: OldDesignator=D108 NewDesignator=D9
+Change Component Designator: OldDesignator=D301 NewDesignator=D10
+Change Component Designator: OldDesignator=EDISON600 NewDesignator=EDISON1
+Change Component Designator: OldDesignator=L100 NewDesignator=L3
+Change Component Designator: OldDesignator=L101 NewDesignator=L4
+Change Component Designator: OldDesignator=L102 NewDesignator=L5
+Change Component Designator: OldDesignator=L103 NewDesignator=L6
+Change Component Designator: OldDesignator=L104 NewDesignator=L7
+Change Component Designator: OldDesignator=L105 NewDesignator=L8
+Change Component Designator: OldDesignator=L106 NewDesignator=L9
+Change Component Designator: OldDesignator=L107 NewDesignator=L10
+Change Component Designator: OldDesignator=L300 NewDesignator=L11
+Change Component Designator: OldDesignator=L600 NewDesignator=L1
+Change Component Designator: OldDesignator=L601 NewDesignator=L2
+Change Component Designator: OldDesignator=LED600 NewDesignator=LED1
+Change Component Designator: OldDesignator=LED601 NewDesignator=LED2
+Change Component Designator: OldDesignator=LV600 NewDesignator=LV1
+Change Component Designator: OldDesignator=LV601 NewDesignator=LV2
+Change Component Designator: OldDesignator=LV602 NewDesignator=LV3
+Change Component Designator: OldDesignator=LV603 NewDesignator=LV4
+Change Component Designator: OldDesignator=LV604 NewDesignator=LV5
+Change Component Designator: OldDesignator=LV605 NewDesignator=LV6
+Change Component Designator: OldDesignator=Nut 600 NewDesignator=Nut 2
+Change Component Designator: OldDesignator=Nut 601 NewDesignator=Nut 1
+Change Component Designator: OldDesignator=P100 NewDesignator=P4
+Change Component Designator: OldDesignator=P101 NewDesignator=P3
+Change Component Designator: OldDesignator=P102 NewDesignator=P5
+Change Component Designator: OldDesignator=P103 NewDesignator=P6
+Change Component Designator: OldDesignator=P104 NewDesignator=P7
+Change Component Designator: OldDesignator=P105 NewDesignator=P8
+Change Component Designator: OldDesignator=P106 NewDesignator=P9
+Change Component Designator: OldDesignator=P107 NewDesignator=P10
+Change Component Designator: OldDesignator=P108 NewDesignator=P11
+Change Component Designator: OldDesignator=P109 NewDesignator=P12
+Change Component Designator: OldDesignator=P200 NewDesignator=P13
+Change Component Designator: OldDesignator=P201 NewDesignator=P14
+Change Component Designator: OldDesignator=P202 NewDesignator=P15
+Change Component Designator: OldDesignator=P301 NewDesignator=P16
+Change Component Designator: OldDesignator=P304 NewDesignator=P17
+Change Component Designator: OldDesignator=P500 NewDesignator=P1
+Change Component Designator: OldDesignator=P600 NewDesignator=P2
+Change Component Designator: OldDesignator=PSM200 NewDesignator=PSM1
+Change Component Designator: OldDesignator=S1RX NewDesignator=S5
+Change Component Designator: OldDesignator=S1TX NewDesignator=S4
+Change Component Designator: OldDesignator=S2RX NewDesignator=S7
+Change Component Designator: OldDesignator=S2TX NewDesignator=S6
+Change Component Designator: OldDesignator=S3RX NewDesignator=S9
+Change Component Designator: OldDesignator=S3TX NewDesignator=S8
+Change Component Designator: OldDesignator=S4RX NewDesignator=S11
+Change Component Designator: OldDesignator=S4TX NewDesignator=S10
+Change Component Designator: OldDesignator=S5_RX NewDesignator=S13
+Change Component Designator: OldDesignator=S5_TX NewDesignator=S12
+Change Component Designator: OldDesignator=S600 NewDesignator=S1
+Change Component Designator: OldDesignator=S601 NewDesignator=S2
+Change Component Designator: OldDesignator=S602 NewDesignator=S3
+Change Component Designator: OldDesignator=U601 NewDesignator=U1
+Change Component Designator: OldDesignator=U603 NewDesignator=U2
+Change Component Designator: OldDesignator=USB600 NewDesignator=USB1
+Change Component Designator: OldDesignator=USB601 NewDesignator=USB2
+Change component parameters: Designator = "Nut 600" ("Nut 600"); Footprint = "PEM-SMTSO-M1.6-2-ET"; UniqueID = "\HLUBKGKQ" ("\HLUBKGKQ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "pemnet"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "INTEL_CB"
+Add Component: Footprint Not Found 1210
+Add Component: Footprint Not Found RES 0805
+Add Component: Footprint Not Found RES 0805
+Add Component: Footprint Not Found RES 0805
+Add Component: Footprint Not Found RES 0805
+Add Component: Footprint Not Found PT2512
+Add Component: Footprint Not Found INA219
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin R1-P$2
+Add Pin To Net: Unknown Pin: Pin R2-P$1
+Add Pin To Net: Unknown Pin: Pin R3-P$1
+Add Pin To Net: Unknown Pin: Pin R3-P$2
+Add Pin To Net: Unknown Pin: Pin R4-P$1
+Add Pin To Net: Unknown Pin: Pin R4-P$2
+Add Pin To Net: Unknown Pin: Pin R5-P$2
+Add Pin To Net: Unknown Pin: Pin R6-P$2
+Add Pin To Net: Unknown Pin: Pin R7-P$1
+Add Pin To Net: Unknown Pin: Pin R7-P$2
+Add Pin To Net: Unknown Pin: Pin R8-P$2
+Add Pin To Net: Unknown Pin: Pin R9-P$2
+Add Pin To Net: Unknown Pin: Pin R10-P$1
+Add Pin To Net: Unknown Pin: Pin R11-P$1
+Add Pin To Net: Unknown Pin: Pin R11-P$2
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Change Net Name : Old Net Name=NetC603_P$1 New Net Name=NetC4_P$1
+Change Net Name : Old Net Name=NetC604_P$1 New Net Name=NetC6_P$1
+Change Net Name : Old Net Name=NetC605_P$1 New Net Name=NetC5_P$1
+Change Net Name : Old Net Name=NetD101_C New Net Name=NetD2_C
+Change Net Name : Old Net Name=NetD104_C New Net Name=NetD5_C
+Change Net Name : Old Net Name=NetD105_C New Net Name=NetD6_C
+Change Net Name : Old Net Name=NetD106_C New Net Name=NetD7_C
+Change Net Name : Old Net Name=NetD107_C New Net Name=NetD8_C
+Change Net Name : Old Net Name=NetD108_C New Net Name=NetD9_C
+Change Net Name : Old Net Name=NetD300_CATHODE New Net Name=NetD10_C
+Change Net Name : Old Net Name=NetL600_P$1 New Net Name=NetL1_P$1
+Change Net Name : Old Net Name=NetL601_P$1 New Net Name=NetL2_P$1
+Change Net Name : Old Net Name=NetLED600_C New Net Name=NetLED1_C
+Change Net Name : Old Net Name=NetLED601_C New Net Name=NetLED2_C
+Change Net Name : Old Net Name=NetU603_14 New Net Name=NetU2_14
+Change Net Name : Old Net Name=NetU603_15 New Net Name=NetU2_15
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Net: Name=NetLED1_A
+Added Pin To Net: NetName=NetLED2_A Pin=LED2-A
+Added Net: Name=NetLED2_A
+Added Pin To Net: NetName=NetR1_P$1 Pin=U1-5
+Added Net: Name=NetR1_P$1
+Added Pin To Net: NetName=NetR8_P$1 Pin=S1-A1
+Added Net: Name=NetR8_P$1
+Added Pin To Net: NetName=NetR9_P$1 Pin=S2-B3
+Added Net: Name=NetR9_P$1
+Added Net: Name=NetR14_1
+Added Net: Name=NetR15_1
+Add Class Member: Failed to add class member : Component C7 1210 0.1uF
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component R1 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R2 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R3 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R4 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R5 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R6 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R7 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R8 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R9 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R10 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R11 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R12 SMD Resistor 0805
+Add Class Member: Failed to add class member : Component R13 SMD Resistor 0805
+Add Class Member: Failed to add class member : Component R14 SMD Resistor 0805
+Add Class Member: Failed to add class member : Component R15 SMD Resistor 0805
+Add Class Member: Failed to add class member : Component R16 Shut Resistor
+Add Class Member: Failed to add class member : Component U3 INA219AIDCNR

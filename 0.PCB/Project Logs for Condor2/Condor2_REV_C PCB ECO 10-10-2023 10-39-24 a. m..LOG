@@ -1,0 +1,58 @@
+Change component parameters: Designator = "Nut 2" ("Nut 2"); Footprint = "PEM-SMTSO-M1.6-2-ET"; UniqueID = "\HLUBKGKQ" ("\HLUBKGKQ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "pemnet"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "INTEL_CB"
+Add Pin To Net: Unknown Pin: Pin R1-P$1
+Add Pin To Net: Unknown Pin: Pin R1-P$2
+Add Pin To Net: Unknown Pin: Pin R2-P$1
+Add Pin To Net: Unknown Pin: Pin R2-P$2
+Add Pin To Net: Unknown Pin: Pin R3-P$1
+Add Pin To Net: Unknown Pin: Pin R3-P$2
+Add Pin To Net: Unknown Pin: Pin R4-P$1
+Add Pin To Net: Unknown Pin: Pin R4-P$2
+Add Pin To Net: Unknown Pin: Pin R5-P$1
+Add Pin To Net: Unknown Pin: Pin R5-P$2
+Add Pin To Net: Unknown Pin: Pin R6-P$1
+Add Pin To Net: Unknown Pin: Pin R6-P$2
+Add Pin To Net: Unknown Pin: Pin R7-P$1
+Add Pin To Net: Unknown Pin: Pin R7-P$2
+Add Pin To Net: Unknown Pin: Pin R8-P$1
+Add Pin To Net: Unknown Pin: Pin R8-P$2
+Add Pin To Net: Unknown Pin: Pin R9-P$1
+Add Pin To Net: Unknown Pin: Pin R9-P$2
+Add Pin To Net: Unknown Pin: Pin R10-P$1
+Add Pin To Net: Unknown Pin: Pin R10-P$2
+Add Pin To Net: Unknown Pin: Pin R11-P$1
+Add Pin To Net: Unknown Pin: Pin R11-P$2
+Added Pin To Net: NetName=SCL Pin=R12-1
+Added Pin To Net: NetName=SCL Pin=U3-5
+Added Net: Name=SCL
+Added Member To Class: ClassName=Condor2_CV_Sensors Member=Component C7 1210 0.1uF
+Add Class Member: Failed to add class member : Component R1 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R2 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R3 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R4 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R5 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R6 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R7 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R8 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R9 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R10 RESISTOR0402-RES
+Add Class Member: Failed to add class member : Component R11 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2_CV_Sensors Member=Component R12 SMD Resistor 0805
+Added Member To Class: ClassName=Condor2_CV_Sensors Member=Component R13 SMD Resistor 0805
+Added Member To Class: ClassName=Condor2_CV_Sensors Member=Component R14 SMD Resistor 0805
+Added Member To Class: ClassName=Condor2_CV_Sensors Member=Component R15 SMD Resistor 0805
+Added Member To Class: ClassName=Condor2_CV_Sensors Member=Component R16 Shut Resistor
+Added Member To Class: ClassName=Condor2_CV_Sensors Member=Component U3 INA219AIDCNR

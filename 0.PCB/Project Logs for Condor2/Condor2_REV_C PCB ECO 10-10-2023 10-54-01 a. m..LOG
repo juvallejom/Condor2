@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=4V38 Pin=R1-P$2
+Removed Pin From Net: NetName=GND Pin=R2-P$1
+Removed Pin From Net: NetName=FAULT Pin=R3-P$1
+Removed Pin From Net: NetName=1V8 Pin=R3-P$2
+Removed Pin From Net: NetName=GND Pin=R4-P$1
+Removed Pin From Net: NetName=PSW Pin=R4-P$2
+Removed Pin From Net: NetName=NetLED1_A Pin=R5-P$1
+Removed Pin From Net: NetName=VSYS Pin=R5-P$2
+Removed Pin From Net: NetName=NetLED2_A Pin=R6-P$1
+Removed Pin From Net: NetName=VSYS Pin=R6-P$2
+Removed Pin From Net: NetName=VSYS Pin=R7-P$1
+Removed Pin From Net: NetName=4V38 Pin=R7-P$2
+Removed Pin From Net: NetName=VSYS Pin=R8-P$2
+Removed Pin From Net: NetName=1V8 Pin=R9-P$2
+Removed Pin From Net: NetName=PWRBTN# Pin=R10-P$1
+Removed Pin From Net: NetName=1V8 Pin=R11-P$1
+Removed Pin From Net: NetName=RESET_OUT# Pin=R11-P$2
+Change component parameters: Designator = "Nut 2" ("Nut 2"); Footprint = "PEM-SMTSO-M1.6-2-ET"; UniqueID = "\HLUBKGKQ" ("\HLUBKGKQ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "pemnet"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "INTEL_CB"
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-5
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR8_1 Pin=S1-A1
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=S2-B3
+Added Net: Name=NetR9_1
