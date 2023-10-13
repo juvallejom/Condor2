@@ -235,6 +235,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SIBSHURA
 
+[Document12]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=A40847DE-0A5D-425D-9898-736D3E0221A2
 Description=Normal_CB
@@ -558,6 +575,10 @@ ParamDesignator49=C605
 Variation40=Designator=LOGO2|UniqueId=\DTHXKUBQ|Kind=1|AlternatePart= 
 Variation41=Designator=LOGO1|UniqueId=\MSXKOHIE|Kind=1|AlternatePart= 
 ParamVariationCount=49
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCA_0005_FULL_CB\Design Rule Check - Condor2_REV_C.html
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=F:\Current_Work\00_0_git\px4_hardware\libraries\altium\*.*

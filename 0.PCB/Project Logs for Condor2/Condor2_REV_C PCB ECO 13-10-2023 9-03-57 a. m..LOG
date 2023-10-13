@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IO-USART1_RX_SPECTRUM_DSM Pin=JP100-1
+Removed Pin From Net: NetName=SERIAL1_RX Pin=JP100-2
+Removed Member From Class: ClassName=Condor2_Plugs_REV_C Member=JP100
+Added Room: Name=Condor2_80_Pin_REV_C
+Added Room: Name=Condor2__Power_REV_C
+Added Room: Name=Condor2_NTEL_REV_C
+Added Room: Name=Condor2_Plugs_REV_C
+Added Room: Name=Condor2_Servo_REV_C
+Added Room: Name=Condor2_tp_REV_C

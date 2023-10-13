@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=GND Pin=C5-P$2
+Removed Pin From Net: NetName=GND Pin=C6-P$2
+Removed Pin From Net: NetName=VSYS Pin=R5-2
+Removed Pin From Net: NetName=VSYS Pin=R6-2
+Removed Pin From Net: NetName=UART_2_TX_OUT Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U2-17
+Removed Pin From Net: NetName=GND Pin=U2-20
+Removed Pin From Net: NetName=GND Pin=U2-24
+Removed Pin From Net: NetName=GND Pin=U2-26
+Removed Pin From Net: NetName=UART_2_RX_OUT Pin=U2-30
+Removed Pin From Net: NetName=GND Pin=U2-33
+Removed Pin From Net: NetName=GND Pin=USB1-GND1
+Removed Pin From Net: NetName=GND Pin=USB1-GND2
+Removed Pin From Net: NetName=GND Pin=USB1-GND3
+Removed Pin From Net: NetName=GND Pin=USB1-GND4
+Removed Pin From Net: NetName=GND Pin=USB1-GND
+Removed Member From Class: ClassName=Condor2_NTEL_REV_C Member=C5
+Removed Member From Class: ClassName=Condor2_NTEL_REV_C Member=C6
+Removed Member From Class: ClassName=Condor2_NTEL_REV_C Member=L2
+Removed Member From Class: ClassName=Condor2_NTEL_REV_C Member=LED1
+Removed Member From Class: ClassName=Condor2_NTEL_REV_C Member=LED2
+Removed Member From Class: ClassName=Condor2_NTEL_REV_C Member=R5
+Removed Member From Class: ClassName=Condor2_NTEL_REV_C Member=R6
+Removed Member From Class: ClassName=Condor2_NTEL_REV_C Member=U2
+Change component parameters: Designator = "Nut 2" ("Nut 2"); Footprint = "PEM-SMTSO-M1.6-2-ET"; UniqueID = "\HLUBKGKQ" ("\HLUBKGKQ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "pemnet"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "INTEL_CB"
+Added Member To Class: ClassName=Condor2_NTEL_REV_C Member=Component USB2 MICRO USB B, BOTTOM MOUNT
+Added Room: Name=Condor2_80_Pin_REV_C
+Added Room: Name=Condor2__Power_REV_C
+Added Room: Name=Condor2_NTEL_REV_C
+Added Room: Name=Condor2_Plugs_REV_C
+Added Room: Name=Condor2_Servo_REV_C
+Added Room: Name=Condor2_tp_REV_C

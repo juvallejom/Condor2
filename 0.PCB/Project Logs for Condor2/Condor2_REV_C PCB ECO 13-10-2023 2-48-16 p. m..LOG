@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SERIAL5_TX Pin=S12-
+Change Component Footprint: Designator=S12 Old Footprint= New Footprint=PAD.04X.04
+Change Component Comment : Designator=P13 Old Comment=POWER 1 New Comment=CLICKMATE_2_6
+Change Component Comment : Designator=P15 Old Comment=POWER 2 New Comment=CLICKMATE_2_6
+Added Pin To Net: NetName=SERIAL5_TX Pin=S12-P$1
+Added Member To Class: ClassName=Condor2_80_Pin_REV_C Member=Component P1 CON-DF17-80M
+Added Room: Name=Condor2_80_Pin_REV_C
+Added Room: Name=Condor2__Power_REV_C
+Added Room: Name=Condor2_Plugs_REV_C
+Added Room: Name=Condor2_Servo_REV_C
+Added Room: Name=Condor2_tp_REV_C
