@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=VDD_5V_BRICK Pin=P13-1
+Removed Pin From Net: NetName=VDD_5V_BRICK Pin=P13-2
+Removed Pin From Net: NetName=BATT_CURRENT_SENS_PROT Pin=P13-3
+Removed Pin From Net: NetName=BATT_VOLTAGE_SENS_PROT Pin=P13-4
+Removed Pin From Net: NetName=GND Pin=P13-5
+Removed Pin From Net: NetName=GND Pin=P13-6
+Removed Pin From Net: NetName=GND Pin=P13-GND
+Removed Pin From Net: NetName=GND Pin=P13-GND
+Removed Member From Class: ClassName=Condor2__Power_REV_C Member=P13
+Added Component: Designator=*(FOXEeR REAPER)
+Added Component: Designator=J1(AMASS_XT60-M)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-N
+Added Pin To Net: NetName=VDD_5V_BRICK Pin=J1-P
+Added Class: Name=Condor2_ESC
+Added Member To Class: ClassName=Condor2__Power_REV_C Member=Component J1 XT60-M
+Added Room: Name=Condor2_80_Pin_REV_C
+Added Room: Name=Condor2__Power_REV_C
+Added Room: Name=Condor2_ESC
+Added Room: Name=Condor2_Plugs_REV_C
+Added Room: Name=Condor2_Servo_REV_C
+Added Room: Name=Condor2_tp_REV_C
