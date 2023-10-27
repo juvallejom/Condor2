@@ -10,12 +10,12 @@ void setup(void)
   Serial.begin(115200);
   while (!Serial) {
       // will pause Zero, Leonardo, etc until serial console opens
-      delay(100);
+      delay(1);
   }
 
   uint32_t currentFrequency;
     
-  Serial.println("OLA!!!");
+  Serial.println("HOLA!!!");
   
   // Initialize the INA219.
   // By default the initialization will use the largest range (32V, 2A).  However
@@ -46,12 +46,12 @@ void loop(void)
   power_mW = ina219_B.getPower_mW();
   loadvoltage = busvoltage + (shuntvoltage / 1000);
   
-  Serial.print("Bus Voltage:   "); Serial.print(busvoltage); Serial.println(" V");
-  Serial.print("Shunt Voltage: "); Serial.print(shuntvoltage); Serial.println(" mV");
-  Serial.print("Load Voltage:  "); Serial.print(loadvoltage); Serial.println(" V");
-  Serial.print("Current:       "); Serial.print(current_mA); Serial.println(" mA");
-  Serial.print("Power:         "); Serial.print(power_mW); Serial.println(" mW");
+  Serial.print("Bus Voltage:   "); Serial.print(busvoltage); Serial.print(" V.....");
+  Serial.print("Shunt Voltage: "); Serial.print(shuntvoltage); Serial.print(" mV...");
+  Serial.print("Load Voltage:  "); Serial.print(loadvoltage); Serial.print(" V...");
+  Serial.print("Current:       "); Serial.print(current_mA); Serial.print(" mA...");
+  Serial.print("Power:         "); Serial.print(power_mW); Serial.print(" mW");
   Serial.println("");
 
-  delay(2000);
+  delay(2);
 }
