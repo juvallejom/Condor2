@@ -7,7 +7,9 @@
 
 ## 1.Telemetry and documentation for measurements
 
-El objetivo de esta práctica es determinar el modelo cinemático inverso del robot Phantom X, generar trayectorias de trabajo para dibujar figuras con el robot y operarlo usando ROS a partir de scripts generados en Python.
+Para el ensamble del Condor 2, se usa un ESC Foxxer Reaper F4 128K 60 A. Este cuenta con un sistema de medicion de tension y corriente que se comnunica a partir de protocolo serial. A continuación se describiran los pasos para monitorear estas variables y poder visualizarlas a travez de Mission Planner.
+
+
 
 ## 2.ESC as Power Supply
  
