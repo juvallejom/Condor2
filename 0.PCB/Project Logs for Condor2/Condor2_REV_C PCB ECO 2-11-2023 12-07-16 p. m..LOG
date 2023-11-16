@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Net*_3 Pin=P2-1
+Removed Pin From Net: NetName=Net*_1 Pin=P2-3
+Removed Pin From Net: NetName=Net*_4 Pin=P18-3
+Added Pin To Net: NetName=Net*_1 Pin=P2-1
+Added Pin To Net: NetName=Net*_3 Pin=P2-3
+Added Pin To Net: NetName=Net*_6 Pin=P18-3
+Added Room: Name=Condor2_80_Pin_REV_C
+Added Room: Name=Condor2__Power_REV_C
+Added Room: Name=Condor2_ESC
+Added Room: Name=Condor2_Plugs_REV_C
+Added Room: Name=Condor2_Servo_REV_C
+Added Room: Name=Condor2_tp_REV_C
