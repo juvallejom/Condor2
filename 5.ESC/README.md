@@ -15,12 +15,18 @@ Para el ensamble del Condor 2, se usa un ESC Foxxer Reaper F4 128K 60 A. Este cu
 El protocolo por el cual se media la comunicacion y la tranmisicion de datos de la corriente es el protocolo serial. La conexion se puede realizar por medio de los puertos Telem 1 o Telem2 los cuales estan capacitados para soportar protocolos UART. Los puertos Telem tienen asigandos los siguientes pines :
 
 <div align="center">
+ 
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
 </div>
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 ## 1.2 ESC Firmware
