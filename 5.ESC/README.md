@@ -28,6 +28,14 @@ El protocolo por el cual se media la comunicacion y la tranmisicion de datos de 
 </div>
 
 
+La conexión entre pines pines seria
+| ESC  | Telem |
+| ------------- | ------------- |
+| VCC | VCC  |
+| Current | RX (IN)  |
+| 6 | GND  |
+
+
 
 ## 1.2 ESC Firmware
 
