@@ -16,14 +16,14 @@ El protocolo por el cual se media la comunicacion y la tranmisicion de datos de 
 
 <div align="center">
  
-| Pin  | |
+| Pin  | Conexiones |
 | ------------- | ------------- |
-| 1 | Content Cell  |
-| 2 | Content Cell  |
-| 3 | Content Cell  |
-| 4 | Content Cell  |
-| 5 | Content Cell  |
-| 6 | Content Cell  |
+| 1 | VCC  |
+| 2 | TX (OUT)  |
+| 3 | RX (IN)  |
+| 4 | CTS  |
+| 5 | RTS  |
+| 6 | GND  |
 
 </div>
 
