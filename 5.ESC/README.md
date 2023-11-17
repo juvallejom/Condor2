@@ -10,7 +10,7 @@
 Para el ensamble del Condor 2, se usa un ESC Foxxer Reaper F4 128K 60 A. Este cuenta con un sistema de medicion de tension y corriente que se comnunica a partir de protocolo serial. A continuación se describiran los pasos para monitorear estas variables y poder visualizarlas a travez de Mission Planner.
 
 
-## 1.1 Port Connections 
+### 1.1 Port Connections 
 
 El protocolo por el cual se media la comunicacion y la tranmisicion de datos de la corriente es el protocolo serial. La conexion se puede realizar por medio de los puertos Telem 1 o Telem2 los cuales estan capacitados para soportar protocolos UART. Los puertos Telem tienen asigandos los siguientes pines :
 
@@ -37,11 +37,11 @@ La conexión entre pines pines seria
 
 
 
-## 1.2 ESC Firmware
+### 1.2 ESC Firmware
 
 Usando el software , 
 
-## 1.3 Mission Planner
+### 1.3 Mission Planner
 
 
 
