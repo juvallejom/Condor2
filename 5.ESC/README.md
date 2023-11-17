@@ -39,6 +39,8 @@ La conexión entre pines pines seria
 
 ## 1.2 ESC Firmware
 
+Usando el software , 
+
 ## 1.3 Mission Planner
 
 
