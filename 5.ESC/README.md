@@ -33,7 +33,7 @@ La conexión entre pines pines seria
 | ------------- | ------------- |
 | VCC | VCC  |
 | Current | RX (IN)  |
-| 6 | GND  |
+| GND | GND  |
 
 
 
