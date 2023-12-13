@@ -1,0 +1,282 @@
+Removed Member From Class: ClassName=FULL_CB_tp_REV_C Member=JP400
+Removed Member From Class: ClassName=FULL_CB_tp_REV_C Member=JP401
+Change component parameters: Designator = "BATT600" ("BATT600"); Footprint = "MS621FE"; UniqueID = "\OPINRJSF" ("\OPINRJSF")
+Change component parameters (AddParameter): Name = "DATASHEET"; Value = "http://speed.sii.co.jp/data/file_PRODUCT_MASTER_50112_TITLE_IMAGESP.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LINK"; Value = "http://search.digikey.com/us/en/products/MS621FE-FL11E/728-1057-ND/1889208"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFGPN"; Value = "TS621FE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "TS621FE-FL11E-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C600" ("C600"); Footprint = "0603-CAP"; UniqueID = "\GWHKKMSR" ("\GWHKKMSR")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-7611-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C601" ("C601"); Footprint = "0805-CAP"; UniqueID = "\FSCTSKTU" ("\FSCTSKTU")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-5523-6-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-5523-6-ND"; VariantName = "INTEL_CB"
+Change component parameters: Designator = "C602" ("C602"); Footprint = "0402-CAP"; UniqueID = "\NKGUHRED" ("\NKGUHRED")
+Change component parameters (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C603" ("C603"); Footprint = "0402-CAP"; UniqueID = "\VTSGCYVX" ("\VTSGCYVX")
+Change component parameters (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C604" ("C604"); Footprint = "0402-CAP"; UniqueID = "\KUWICUYE" ("\KUWICUYE")
+Change component parameters (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "INTEL_CB"
+Change component parameters: Designator = "C605" ("C605"); Footprint = "0402-CAP"; UniqueID = "\IGEPMQFI" ("\IGEPMQFI")
+Change component parameters (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "INTEL_CB"
+Change component parameters: Designator = "D100" ("D100"); Footprint = "0402-TVS"; UniqueID = "\WLDDNRJV" ("\WLDDNRJV")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D101" ("D101"); Footprint = "0402-TVS"; UniqueID = "\BVBTFLNE" ("\BVBTFLNE")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D102" ("D102"); Footprint = "0402-TVS"; UniqueID = "\IXMBNAXT" ("\IXMBNAXT")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D103" ("D103"); Footprint = "0402-TVS"; UniqueID = "\WUUCCAIH" ("\WUUCCAIH")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D104" ("D104"); Footprint = "0402-TVS"; UniqueID = "\XJQETUIS" ("\XJQETUIS")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D105" ("D105"); Footprint = "0402-TVS"; UniqueID = "\EXKBYIOI" ("\EXKBYIOI")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D106" ("D106"); Footprint = "0402-TVS"; UniqueID = "\EPKOXEAJ" ("\EPKOXEAJ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D107" ("D107"); Footprint = "0402-TVS"; UniqueID = "\GKLGVTAF" ("\GKLGVTAF")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D108" ("D108"); Footprint = "0402-TVS"; UniqueID = "\CREONOJQ" ("\CREONOJQ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D300" ("D300"); Footprint = "MICROSMP"; UniqueID = "\PVNYUBUD" ("\PVNYUBUD")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "15R2105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "Normal_CB"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "15R2105"; VariantName = "Normal_CB"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "15R2105"; VariantName = "INTEL_CB"
+Change component parameters: Designator = "D301" ("D301"); Footprint = "0402-TVS"; UniqueID = "\VWJVKJHU" ("\VWJVKJHU")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP100" ("JP100"); Footprint = "HEADER_2MM_RA_2"; UniqueID = "\HCJPYSNQ" ("\HCJPYSNQ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "830-10-002-40-001101-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L100" ("L100"); Footprint = "KYOCERA-KNH16-DA"; UniqueID = "\LJFLABQE" ("\LJFLABQE")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L101" ("L101"); Footprint = "KYOCERA-KNH16-DA"; UniqueID = "\ODKKHTCJ" ("\ODKKHTCJ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L102" ("L102"); Footprint = "KYOCERA-KNH16-DA"; UniqueID = "\FMQSNHJD" ("\FMQSNHJD")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L103" ("L103"); Footprint = "KYOCERA-KNH16-DA"; UniqueID = "\MUCGVPIX" ("\MUCGVPIX")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L104" ("L104"); Footprint = "KYOCERA-KNH16-DA"; UniqueID = "\YDXJGEMS" ("\YDXJGEMS")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L105" ("L105"); Footprint = "KYOCERA-KNH16-DA"; UniqueID = "\RNNNNTCQ" ("\RNNNNTCQ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L106" ("L106"); Footprint = "KYOCERA-KNH16-DA"; UniqueID = "\HKBJYSIE" ("\HKBJYSIE")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L107" ("L107"); Footprint = "KYOCERA-KNH16-DA"; UniqueID = "\FCOYLQAM" ("\FCOYLQAM")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L300" ("L300"); Footprint = "KYOCERA-KNH16-DA"; UniqueID = "\USSPCMIJ" ("\USSPCMIJ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L600" ("L600"); Footprint = "XFL4020"; UniqueID = "\OTSSYMGG" ("\OTSSYMGG")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "994-XFL4020-222MEB"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L601" ("L601"); Footprint = "0805-IND"; UniqueID = "\DVKSELEE" ("\DVKSELEE")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "240-2389-6-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED600" ("LED600"); Footprint = "0603-LED-BLUE"; UniqueID = "\IELPMQRD" ("\IELPMQRD")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "754-1546-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "754-1546-1-ND"; VariantName = "INTEL_CB"
+Change component parameters: Designator = "LED601" ("LED601"); Footprint = "0603-LED-BLUE"; UniqueID = "\HXOYFFNH" ("\HXOYFFNH")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "754-1546-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "754-1546-1-ND"; VariantName = "INTEL_CB"
+Change component parameters: Designator = "LV600" ("LV600"); Footprint = "DRL"; UniqueID = "\IVFVYVDL" ("\IVFVYVDL")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "296-20629-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LV601" ("LV601"); Footprint = "DRL"; UniqueID = "\GMFOPSAB" ("\GMFOPSAB")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "296-20629-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LV602" ("LV602"); Footprint = "DRL"; UniqueID = "\SDKGOLDW" ("\SDKGOLDW")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "296-20629-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LV603" ("LV603"); Footprint = "DRL"; UniqueID = "\JDFUHXQD" ("\JDFUHXQD")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "296-20629-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LV604" ("LV604"); Footprint = "DRL"; UniqueID = "\LLDUJMOJ" ("\LLDUJMOJ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "296-20629-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LV605" ("LV605"); Footprint = "DRL"; UniqueID = "\XNMKWORO" ("\XNMKWORO")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "296-20629-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Nut 600" ("Nut 600"); Footprint = "PEM-SMTSO-M1.6-2-ET"; UniqueID = "\HLUBKGKQ" ("\HLUBKGKQ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "pemnet"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "INTEL_CB"
+Change component parameters: Designator = "Nut 601" ("Nut 601"); Footprint = "PEM-SMTSO-M1.6-2-ET"; UniqueID = "\VGRFPCQC" ("\VGRFPCQC")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P100" ("P100"); Footprint = "JST_GH_V6"; UniqueID = "\RWPWDDEO" ("\RWPWDDEO")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1582-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P101" ("P101"); Footprint = "JST_GH_V3"; UniqueID = "\NAKQNXMR" ("\NAKQNXMR")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1579-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P102" ("P102"); Footprint = "JST_GH_V4"; UniqueID = "\VONAVPLQ" ("\VONAVPLQ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1580-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P103" ("P103"); Footprint = "JST_GH_V6"; UniqueID = "\XOIFNSEM" ("\XOIFNSEM")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1582-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P104" ("P104"); Footprint = "JST_GH_V4"; UniqueID = "\BIGLUVFX" ("\BIGLUVFX")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1580-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P105" ("P105"); Footprint = "JST_SUR_H6"; UniqueID = "\TNYPWDLL" ("\TNYPWDLL")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "SM06B-SURS-TF(LF)(SN)-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P106" ("P106"); Footprint = "JST_SUR_H6"; UniqueID = "\MCHHFMOJ" ("\MCHHFMOJ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "SM06B-SURS-TF(LF)(SN)-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P107" ("P107"); Footprint = "JST_GH_V8"; UniqueID = "\ONOGRINM" ("\ONOGRINM")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1584-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P108" ("P108"); Footprint = "JST_GH_V4"; UniqueID = "\YMGKRNQC" ("\YMGKRNQC")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1580-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P109" ("P109"); Footprint = "JST_GH_V6"; UniqueID = "\YMERCGVW" ("\YMERCGVW")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1582-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P200" ("P200"); Footprint = "CLICKMATE_V6_2MM"; UniqueID = "\GVEENQIJ" ("\GVEENQIJ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM2279CT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P201" ("P201"); Footprint = "JST_GH_V6"; UniqueID = "\PSEFBTPR" ("\PSEFBTPR")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1582-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P202" ("P202"); Footprint = "CLICKMATE_V6_2MM"; UniqueID = "\SRMDDKSD" ("\SRMDDKSD")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM2279CT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P301" ("P301"); Footprint = "TSW-103-07-G-D"; UniqueID = "\CTINUFTA" ("\CTINUFTA")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "79P3920"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P500" ("P500"); UniqueID = "\BNAVKUQX" ("\BNAVKUQX")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "DF17(1.0H)-80DP-0.5V(57)-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P600" ("P600"); Footprint = "DF40-70_RECEPTICAL"; UniqueID = "\FADRXRHP" ("\FADRXRHP")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "H11908CT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S600" ("S600"); Footprint = "EVQP7J01K"; UniqueID = "\JOELPMLG" ("\JOELPMLG")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P16767DKR-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S601" ("S601"); Footprint = "EVQP7J01K"; UniqueID = "\CBGJMVBU" ("\CBGJMVBU")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P16767DKR-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S602" ("S602"); Footprint = "EVQP7J01K"; UniqueID = "\LOSOHSEJ" ("\LOSOHSEJ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P16767DKR-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SPKT100" ("SPKT100"); Footprint = "B3B-ZR"; UniqueID = "\1\GEFGLTLQ" ("\1\GEFGLTLQ")
+Change component parameters (AddParameter): Name = "PARTNO"; Value = "B3B-ZR(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARTNO"; Value = "B3B-ZR(LF)(SN)"; VariantName = "Normal_CB"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "Normal_CB"
+Change component parameters (AddParameter): Name = "PARTNO"; Value = "B3B-ZR(LF)(SN)"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "INTEL_CB"
+Change component parameters: Designator = "U603" ("U603"); Footprint = "PQFN5X5-32_V"; UniqueID = "\OLSDLBCT" ("\OLSDLBCT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ftdichip.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "ver 2.10, Mar-2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FTDI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "32-Pin Quad Flat No-Lead 0.5 mm Pitch, Pullback, 3.2 x 3.2 mm Exposed Pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "PQFN5X5-32"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Mar-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "FT232RQ-Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "768-1008-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ftdichip.com/"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "ver 2.10, Mar-2012"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FTDI"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "32-Pin Quad Flat No-Lead 0.5 mm Pitch, Pullback, 3.2 x 3.2 mm Exposed Pad"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "PQFN5X5-32"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Mar-12"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "FT232RQ-Reel"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "INTEL_CB"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "768-1008-1-ND"; VariantName = "INTEL_CB"
+Added Component: Designator=B1(SOIC127P600X170-9N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.monolithicpower.com/DesktopModules/DocumentManage/API/Document/getDocument?id=248"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Monolithic Power Systems (MPS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MP1593DN-LF-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "946-MP1593DNLFZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MP1593DN-LF-Z?qs=rC7bBWoQAAliNryLBLWSWg%3D%3D"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=PROT_SPARE_1 New Net Name=CAN_L_3
+Change Net Name : Old Net Name=PROT_SPARE_2 New Net Name=CAN_H_3
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component B1 MP1593DN-LF-Z
+Added Member To Class: ClassName=FULL_CB_Servo_REV_C Member=Component P304 PH_2 Servo header
+Added Room: Name=FULL_CB_80_Pin_REV_C
+Added Room: Name=FULL_CB_INTEL_REV_C
+Added Room: Name=FULL_CB_Plugs_REV_C
+Added Room: Name=FULL_CB_Power_REV_C
+Added Room: Name=FULL_CB_Servo_REV_C
+Added Room: Name=FULL_CB_tp_REV_C

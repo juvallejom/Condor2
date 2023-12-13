@@ -1,0 +1,13 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:56:29 a. m. On 5/10/2023
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Normal_CB] of Project [CB_REV_C.PrjPcb]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 9:58:01 a. m. On 5/10/2023

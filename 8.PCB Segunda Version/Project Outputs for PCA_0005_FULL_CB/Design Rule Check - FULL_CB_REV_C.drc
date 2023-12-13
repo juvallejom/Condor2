@@ -1,0 +1,108 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Joseph\Downloads\The-Cube-fe4a7976712f2bf8d4bfa16ea8175f078e804461\The-Cube-fe4a7976712f2bf8d4bfa16ea8175f078e804461\CB_REV_C_Altium\FULL_CB_REV_C.PcbDoc
+Date     : 18/09/2023
+Time     : 3:50:34 p. m.
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: Bottom-GND In net GND
+   Polygon named: Top-VDD_SERVO In net VDD_SERVO
+   Polygon named: Top Layer-No Net In net GND
+   Polygon named: Top Layer-No Net In net VDD_5V_HIPOWER
+   Polygon named: Top Layer-No Net In net NetL600_P$1
+   Polygon named: Top Layer-No Net In net 4V38
+   Polygon named: Top Layer-No Net In net GND
+   Polygon named: Sig_GND In net GND
+   Polygon named: Sig1_GND In net GND
+   Polygon named: Top-GND In net GND
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (IsPad),(IsPad)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+   Violation between Clearance Constraint: (0.055mm < 0.127mm) Between Pad R600-P$1(96.218mm,33.204mm) on Bottom Layer And Track (95.397mm,33.23mm)(95.409mm,33.218mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad R600-P$1(96.218mm,33.204mm) on Bottom Layer And Track (95.409mm,33.218mm)(96.196mm,33.218mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad R600-P$1(96.218mm,33.204mm) on Bottom Layer And Track (96.196mm,33.218mm)(96.21mm,33.204mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad R600-P$2(97.226mm,33.204mm) on Bottom Layer And Track (97.218mm,33.204mm)(97.708mm,33.204mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad R603-P$1(98.25mm,33.204mm) on Bottom Layer And Track (97.713mm,33.204mm)(98.242mm,33.204mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad R603-P$2(99.258mm,33.204mm) on Bottom Layer And Track (99.211mm,31.961mm)(99.211mm,33.172mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad R611-P$1(67.988mm,58.75mm) on Bottom Layer And Track (67.996mm,58.75mm)(68.707mm,58.75mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad R611-P$2(66.98mm,58.75mm) on Bottom Layer And Track (66.988mm,58.75mm)(66.988mm,61.409mm) on Bottom Layer 
+Rule Violations :8
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) ((InLayerClass('Signal Layers') AND IsTrack)),(IsPad)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) ((InLayerClass('Signal Layers') AND IsTrack)),((InLayerClass('Signal Layers') AND IsTrack))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) ((InLayerClass('Signal Layers') AND IsTrack)),(IsVia)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (InPolygon),(InPolygon)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (IsPad),(IsVia)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (IsVia),(IsVia)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad R600-P$1(96.218mm,33.204mm) on Bottom Layer And Track (95.409mm,33.218mm)(96.196mm,33.218mm) on Bottom Layer Location : [X = 96.218mm][Y = 33.204mm]
+   Violation between Short-Circuit Constraint: Between Pad R600-P$1(96.218mm,33.204mm) on Bottom Layer And Track (96.196mm,33.218mm)(96.21mm,33.204mm) on Bottom Layer Location : [X = 96.218mm][Y = 33.204mm]
+   Violation between Short-Circuit Constraint: Between Pad R600-P$2(97.226mm,33.204mm) on Bottom Layer And Track (97.218mm,33.204mm)(97.708mm,33.204mm) on Bottom Layer Location : [X = 97.311mm][Y = 33.204mm]
+   Violation between Short-Circuit Constraint: Between Pad R603-P$1(98.25mm,33.204mm) on Bottom Layer And Track (97.713mm,33.204mm)(98.242mm,33.204mm) on Bottom Layer Location : [X = 98.157mm][Y = 33.204mm]
+   Violation between Short-Circuit Constraint: Between Pad R603-P$2(99.258mm,33.204mm) on Bottom Layer And Track (99.211mm,31.961mm)(99.211mm,33.172mm) on Bottom Layer Location : [X = 99.211mm][Y = 33.137mm]
+   Violation between Short-Circuit Constraint: Between Pad R611-P$1(67.988mm,58.75mm) on Bottom Layer And Track (67.996mm,58.75mm)(68.707mm,58.75mm) on Bottom Layer Location : [X = 68.081mm][Y = 58.75mm]
+   Violation between Short-Circuit Constraint: Between Pad R611-P$2(66.98mm,58.75mm) on Bottom Layer And Track (66.988mm,58.75mm)(66.988mm,61.409mm) on Bottom Layer Location : [X = 66.988mm][Y = 58.864mm]
+Rule Violations :7
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetR600_P$1 Between Pad R600-P$1(96.218mm,33.204mm) on Bottom Layer And Track (97.218mm,33.204mm)(97.708mm,33.204mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net 4V38 Between Track (96.196mm,33.218mm)(96.21mm,33.204mm) on Bottom Layer And Pad R600-P$2(97.226mm,33.204mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R603-P$1(98.25mm,33.204mm) on Bottom Layer And Track (99.211mm,31.961mm)(99.211mm,33.172mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetR600_P$1 Between Track (97.713mm,33.204mm)(98.242mm,33.204mm) on Bottom Layer And Pad R603-P$2(99.258mm,33.204mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetR611_P$1 Between Track (66.988mm,58.75mm)(66.988mm,61.409mm) on Bottom Layer And Pad R611-P$1(67.988mm,58.75mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net 1V8 Between Pad R611-P$2(66.98mm,58.75mm) on Bottom Layer And Track (67.996mm,58.75mm)(68.707mm,58.75mm) on Bottom Layer 
+Rule Violations :6
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=2mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=2540mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.203mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (66.988mm,58.75mm)(66.988mm,61.409mm) on Bottom Layer 
+   Violation between Net Antennae: Track (67.996mm,58.75mm)(68.707mm,58.75mm) on Bottom Layer 
+   Violation between Net Antennae: Track (97.218mm,33.204mm)(97.708mm,33.204mm) on Bottom Layer 
+   Violation between Net Antennae: Track (97.713mm,33.204mm)(98.242mm,33.204mm) on Bottom Layer 
+   Violation between Net Antennae: Track (99.211mm,31.961mm)(99.211mm,33.172mm) on Bottom Layer 
+   Violation between Net Antennae: Via (72.238mm,33.046mm) from Top Layer to Bottom Layer 
+Rule Violations :6
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+
+Violations Detected : 27
+Waived Violations : 0
+Time Elapsed        : 00:00:06

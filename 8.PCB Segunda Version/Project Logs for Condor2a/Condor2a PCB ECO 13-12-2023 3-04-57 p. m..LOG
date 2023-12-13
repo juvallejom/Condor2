@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=GND Pin=BATT600-2
+Removed Pin From Net: NetName=GND Pin=C600-P$2
+Removed Pin From Net: NetName=VDD_5V_HIPOWER Pin=C601-P$1
+Removed Pin From Net: NetName=GND Pin=C601-P$2
+Removed Pin From Net: NetName=VDD_5V_HIPOWER Pin=C602-P$1
+Removed Pin From Net: NetName=GND Pin=C602-P$2
+Removed Pin From Net: NetName=GND Pin=C603-P$2
+Removed Pin From Net: NetName=GND Pin=C604-P$2
+Removed Pin From Net: NetName=GND Pin=C605-P$2
+Removed Pin From Net: NetName=GND Pin=LV600-2
+Removed Pin From Net: NetName=SERIAL2_RX Pin=LV600-4
+Removed Pin From Net: NetName=GND Pin=LV601-2
+Removed Pin From Net: NetName=SERIAL2_TX Pin=LV601-4
+Removed Pin From Net: NetName=GND Pin=LV601-5
+Removed Pin From Net: NetName=GND Pin=LV602-2
+Removed Pin From Net: NetName=SERIAL2_RTS Pin=LV602-4
+Removed Pin From Net: NetName=GND Pin=LV602-5
+Removed Pin From Net: NetName=GND Pin=LV603-2
+Removed Pin From Net: NetName=SERIAL2_CTS Pin=LV603-4
+Removed Pin From Net: NetName=GND Pin=LV604-2
+Removed Pin From Net: NetName=GND Pin=LV605-2
+Removed Pin From Net: NetName=GND Pin=LV605-5
+Removed Pin From Net: NetName=GND Pin=Nut 600-0
+Removed Pin From Net: NetName=GND Pin=Nut 601-0
+Removed Pin From Net: NetName=GND Pin=P600-1
+Removed Pin From Net: NetName=GND Pin=P600-5
+Removed Pin From Net: NetName=GND Pin=P600-9
+Removed Pin From Net: NetName=GND Pin=P600-11
+Removed Pin From Net: NetName=GND Pin=P600-13
+Removed Pin From Net: NetName=GND Pin=P600-15
+Removed Pin From Net: NetName=GND Pin=R603-P$1
+Removed Pin From Net: NetName=GND Pin=R606-P$1
+Removed Pin From Net: NetName=GND Pin=S600-B3
+Removed Pin From Net: NetName=GND Pin=S602-B3
+Removed Pin From Net: NetName=GND Pin=U601-6
+Removed Pin From Net: NetName=GND Pin=U601-7
+Removed Pin From Net: NetName=GND Pin=U601-8
+Removed Pin From Net: NetName=VDD_5V_HIPOWER Pin=U601-10
+Removed Pin From Net: NetName=VDD_5V_HIPOWER Pin=U601-11
+Removed Pin From Net: NetName=VDD_5V_HIPOWER Pin=U601-12
+Removed Pin From Net: NetName=VDD_5V_HIPOWER Pin=U601-13
+Removed Pin From Net: NetName=GND Pin=U601-15
+Removed Pin From Net: NetName=GND Pin=U601-16
+Removed Pin From Net: NetName=GND Pin=U601-17
+Removed Pin From Net: NetName=GND Pin=U603-4
+Removed Pin From Net: NetName=GND Pin=U603-17
+Removed Pin From Net: NetName=GND Pin=U603-20
+Removed Pin From Net: NetName=GND Pin=U603-24
+Removed Pin From Net: NetName=GND Pin=U603-26
+Removed Pin From Net: NetName=GND Pin=U603-33
+Removed Pin From Net: NetName=GND Pin=USB600-GND1
+Removed Pin From Net: NetName=GND Pin=USB600-GND2
+Removed Pin From Net: NetName=GND Pin=USB600-GND3
+Removed Pin From Net: NetName=GND Pin=USB600-GND4
+Removed Pin From Net: NetName=GND Pin=USB600-GND
+Removed Pin From Net: NetName=GND Pin=USB601-GND1
+Removed Pin From Net: NetName=GND Pin=USB601-GND2
+Removed Pin From Net: NetName=GND Pin=USB601-GND3
+Removed Pin From Net: NetName=GND Pin=USB601-GND4
+Removed Pin From Net: NetName=GND Pin=USB601-GND
+Change component parameters: Component "JP400" not found
+Change component parameters: Component "JP401" not found
+Change component parameters: Designator = "P100" ("P100"); Footprint = "JST_GH_V6"; UniqueID = "\RWPWDDEO" ("\RWPWDDEO")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1582-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P101" ("P101"); Footprint = "JST_GH_V3"; UniqueID = "\NAKQNXMR" ("\NAKQNXMR")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1579-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P102" ("P102"); Footprint = "JST_GH_V4"; UniqueID = "\VONAVPLQ" ("\VONAVPLQ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1580-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P103" ("P103"); Footprint = "JST_GH_V6"; UniqueID = "\XOIFNSEM" ("\XOIFNSEM")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1582-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P104" ("P104"); Footprint = "JST_GH_V4"; UniqueID = "\BIGLUVFX" ("\BIGLUVFX")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1580-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P107" ("P107"); Footprint = "JST_GH_V8"; UniqueID = "\ONOGRINM" ("\ONOGRINM")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1584-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P108" ("P108"); Footprint = "JST_GH_V4"; UniqueID = "\YMGKRNQC" ("\YMGKRNQC")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1580-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P109" ("P109"); Footprint = "JST_GH_V6"; UniqueID = "\YMERCGVW" ("\YMERCGVW")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1582-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P201" ("P201"); Footprint = "JST_GH_V6"; UniqueID = "\PSEFBTPR" ("\PSEFBTPR")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1582-2-ND"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=PROT_SPARE_1 New Net Name=CAN_L_3
+Change Net Name : Old Net Name=PROT_SPARE_2 New Net Name=CAN_H_3
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3
+Added Member To Class: ClassName=Condor2a_Plugs_REV_C Member=Component P100 JST_GH_V6
+Added Member To Class: ClassName=Condor2a_Plugs_REV_C Member=Component P101 JST_GH_V3
+Added Member To Class: ClassName=Condor2a_Plugs_REV_C Member=Component P102 JST_GH_V4
+Added Member To Class: ClassName=Condor2a_Plugs_REV_C Member=Component P103 JST_GH_V6
+Added Member To Class: ClassName=Condor2a_Plugs_REV_C Member=Component P104 JST_GH_V4
+Added Member To Class: ClassName=Condor2a_Plugs_REV_C Member=Component P107 JST_GH_V8
+Added Member To Class: ClassName=Condor2a_Plugs_REV_C Member=Component P108 JST_GH_V4
+Added Member To Class: ClassName=Condor2a_Plugs_REV_C Member=Component P109 JST_GH_V6
+Added Member To Class: ClassName=Condor2a_Power_REV_C Member=Component P201 JST_GH_V6
+Added Room: Name=Condor2a_Pin_REV_C
+Added Room: Name=Condor2a_Plugs_REV_C
+Added Room: Name=Condor2a_Power_REV_C
+Added Room: Name=Condor2a_Servo_REV_C
+Added Room: Name=Condor2a_tp_REV_C

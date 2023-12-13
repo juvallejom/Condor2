@@ -1,0 +1,923 @@
+Added Component: Designator=ADC_PR(PAD.04X.04)
+Added Component: Designator=BATT600(MS621FE)
+Add component (AddParameter): Name = "DATASHEET"; Value = "http://speed.sii.co.jp/data/file_PRODUCT_MASTER_50112_TITLE_IMAGESP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LINK"; Value = "http://search.digikey.com/us/en/products/MS621FE-FL11E/728-1057-ND/1889208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFGPN"; Value = "TS621FE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "TS621FE-FL11E-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C600(0603-CAP)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-7611-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C601(0805-CAP)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-5523-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-5523-6-ND"; VariantName = "INTEL_CB"
+Added Component: Designator=C602(0402-CAP)
+Add component (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C603(0402-CAP)
+Add component (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C604(0402-CAP)
+Add component (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "INTEL_CB"
+Added Component: Designator=C605(0402-CAP)
+Add component (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "INTEL_CB"
+Added Component: Designator=D100(0402-TVS)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Added Component: Designator=D101(0402-TVS)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Added Component: Designator=D102(0402-TVS)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Added Component: Designator=D103(0402-TVS)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Added Component: Designator=D104(0402-TVS)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Added Component: Designator=D105(0402-TVS)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Added Component: Designator=D106(0402-TVS)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Added Component: Designator=D107(0402-TVS)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Added Component: Designator=D108(0402-TVS)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Added Component: Designator=D300(MICROSMP)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "15R2105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "Normal_CB"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "15R2105"; VariantName = "Normal_CB"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "15R2105"; VariantName = "INTEL_CB"
+Added Component: Designator=D301(0402-TVS)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "650-PESD0402-140"; VariantName = "[No Variations]"
+Added Component: Designator=D_RDY1(PAD.04X.04)
+Added Component: Designator=EDISON600(ed)
+Added Component: Designator=JP100(HEADER_2MM_RA_2)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "830-10-002-40-001101-ND"; VariantName = "[No Variations]"
+Added Component: Designator=L100(KYOCERA-KNH16-DA)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=L101(KYOCERA-KNH16-DA)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=L102(KYOCERA-KNH16-DA)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=L103(KYOCERA-KNH16-DA)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=L104(KYOCERA-KNH16-DA)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=L105(KYOCERA-KNH16-DA)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=L106(KYOCERA-KNH16-DA)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=L107(KYOCERA-KNH16-DA)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=L300(KYOCERA-KNH16-DA)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6878-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=L600(XFL4020)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "994-XFL4020-222MEB"; VariantName = "[No Variations]"
+Added Component: Designator=L601(0805-IND)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "240-2389-6-ND"; VariantName = "[No Variations]"
+Added Component: Designator=LED600(0603-LED-Blue)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "754-1546-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "754-1546-1-ND"; VariantName = "INTEL_CB"
+Added Component: Designator=LED601(0603-LED-Blue)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "754-1546-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "754-1546-1-ND"; VariantName = "INTEL_CB"
+Added Component: Designator=LV600(DRL)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-20629-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=LV601(DRL)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-20629-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=LV602(DRL)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-20629-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=LV603(DRL)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-20629-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=LV604(DRL)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-20629-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=LV605(DRL)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-20629-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Nut 600(PEM-SMTSO-M1.6-2-ET)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Supplier 1"; Value = "pemnet"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "INTEL_CB"
+Added Component: Designator=Nut 601(PEM-SMTSO-M1.6-2-ET)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Num (Alternate)"; Value = "Check"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "PennEngineering"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PEM-SMTSO-M1.6-2-ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = "0.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P100(JST_GH_V6)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1582-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P101(JST_GH_V3)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1579-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P102(JST_GH_V4)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1580-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P103(JST_GH_V6)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1582-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P104(JST_GH_V4)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1580-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P105(JST_SUR_H6)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SM06B-SURS-TF(LF)(SN)-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P106(JST_SUR_H6)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SM06B-SURS-TF(LF)(SN)-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P107(JST_GH_V8)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1584-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P108(JST_GH_V4)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1580-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P109(JST_GH_V6)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1582-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P200(CLICKMATE_V6_2MM)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM2279CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P201(JST_GH_V6)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1582-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P202(CLICKMATE_V6_2MM)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM2279CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P301(TSW-103-07-G-D)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "79P3920"; VariantName = "[No Variations]"
+Added Component: Designator=P304(TSW-115-08-G-T-RA)
+Add Component: Footprint Not Found 
+Added Component: Designator=P600(DF40-70_RECEPTICAL)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "H11908CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=PSM200(PSM)
+Added Component: Designator=S1RX(PAD.04X.04)
+Added Component: Designator=S1TX(PAD.04X.04)
+Added Component: Designator=S2RX(PAD.04X.04)
+Added Component: Designator=S2TX(PAD.04X.04)
+Added Component: Designator=S3RX(PAD.04X.04)
+Added Component: Designator=S3TX(PAD.04X.04)
+Added Component: Designator=S4RX(PAD.04X.04)
+Added Component: Designator=S4TX(PAD.04X.04)
+Added Component: Designator=S5_RX(PAD.04X.04)
+Added Component: Designator=S5_TX(PAD.04X.04)
+Added Component: Designator=S600(EVQP7J01K)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P16767DKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=S601(EVQP7J01K)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P16767DKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=S602(EVQP7J01K)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P16767DKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=SPI!CS1(PAD.04X.04)
+Added Component: Designator=SPI_MISO1(PAD.04X.04)
+Added Component: Designator=SPI_MOSI1(PAD.04X.04)
+Added Component: Designator=SPI_SCK1(PAD.04X.04)
+Added Component: Designator=SPKT100(B3B-ZR)
+Add component (AddParameter): Name = "PARTNO"; Value = "B3B-ZR(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARTNO"; Value = "B3B-ZR(LF)(SN)"; VariantName = "Normal_CB"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "Normal_CB"
+Add component (AddParameter): Name = "PARTNO"; Value = "B3B-ZR(LF)(SN)"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "INTEL_CB"
+Added Component: Designator=U601(RGT16-1700X1700TP)
+Added Component: Designator=U603(PQFN5X5-32_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ftdichip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 2.10, Mar-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FTDI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "32-Pin Quad Flat No-Lead 0.5 mm Pitch, Pullback, 3.2 x 3.2 mm Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PQFN5X5-32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Mar-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "FT232RQ-Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "768-1008-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ftdichip.com/"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 2.10, Mar-2012"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FTDI"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "PackageDescription"; Value = "32-Pin Quad Flat No-Lead 0.5 mm Pitch, Pullback, 3.2 x 3.2 mm Exposed Pad"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "PackageReference"; Value = "PQFN5X5-32"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Mar-12"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "PartNumber"; Value = "FT232RQ-Reel"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "INTEL_CB"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "768-1008-1-ND"; VariantName = "INTEL_CB"
+Added Component: Designator=USB600(MOLEX-47346-0001)
+Added Component: Designator=USB601(MOLEX-47346-0001)
+Added Pin To Net: NetName=PRESSURE_SENS_IN Pin=ADC_PR-P$1
+Added Pin To Net: NetName=V_VBAT_BKUP Pin=BATT600-1
+Added Pin To Net: NetName=GND Pin=BATT600-2
+Added Pin To Net: NetName=4V38 Pin=C600-P$1
+Added Pin To Net: NetName=GND Pin=C600-P$2
+Added Pin To Net: NetName=VDD_5V_HIPOWER Pin=C601-P$1
+Added Pin To Net: NetName=GND Pin=C601-P$2
+Added Pin To Net: NetName=VDD_5V_HIPOWER Pin=C602-P$1
+Added Pin To Net: NetName=GND Pin=C602-P$2
+Added Pin To Net: NetName=NetC603_P$1 Pin=C603-P$1
+Added Pin To Net: NetName=GND Pin=C603-P$2
+Added Pin To Net: NetName=NetC604_P$1 Pin=C604-P$1
+Added Pin To Net: NetName=GND Pin=C604-P$2
+Added Pin To Net: NetName=NetC605_P$1 Pin=C605-P$1
+Added Pin To Net: NetName=GND Pin=C605-P$2
+Added Pin To Net: NetName=GND Pin=D100-A
+Added Pin To Net: NetName=5V_PRES Pin=D100-C
+Added Pin To Net: NetName=GND Pin=D101-A
+Added Pin To Net: NetName=NetD101_C Pin=D101-C
+Added Pin To Net: NetName=GND Pin=D102-A
+Added Pin To Net: NetName=VDD_3V3_SPEKTRUM Pin=D102-C
+Added Pin To Net: NetName=GND Pin=D103-A
+Added Pin To Net: NetName=PERIPH_5V Pin=D103-C
+Added Pin To Net: NetName=GND Pin=D104-A
+Added Pin To Net: NetName=NetD104_C Pin=D104-C
+Added Pin To Net: NetName=GND Pin=D105-A
+Added Pin To Net: NetName=NetD105_C Pin=D105-C
+Added Pin To Net: NetName=GND Pin=D106-A
+Added Pin To Net: NetName=NetD106_C Pin=D106-C
+Added Pin To Net: NetName=GND Pin=D107-A
+Added Pin To Net: NetName=NetD107_C Pin=D107-C
+Added Pin To Net: NetName=GND Pin=D108-A
+Added Pin To Net: NetName=NetD108_C Pin=D108-C
+Added Pin To Net: NetName=VDD_SERVO Pin=D300-ANODE
+Added Pin To Net: NetName=NetD300_CATHODE Pin=D300-CATHODE
+Added Pin To Net: NetName=GND Pin=D301-A
+Added Pin To Net: NetName=NetD300_CATHODE Pin=D301-C
+Added Pin To Net: NetName=EXTERN_DRDY Pin=D_RDY1-P$1
+Added Pin To Net: NetName=IO-USART1_RX_SPECTRUM_DSM Pin=JP100-1
+Added Pin To Net: NetName=SERIAL1_RX Pin=JP100-2
+Added Pin To Net: NetName=GND Pin=L100-GND
+Added Pin To Net: NetName=GND Pin=L100-GND
+Added Pin To Net: NetName=GND Pin=L100-GND
+Added Pin To Net: NetName=VDD_5V_PERIPH Pin=L100-P$1
+Added Pin To Net: NetName=5V_PRES Pin=L100-P$2
+Added Pin To Net: NetName=GND Pin=L101-GND
+Added Pin To Net: NetName=GND Pin=L101-GND
+Added Pin To Net: NetName=GND Pin=L101-GND
+Added Pin To Net: NetName=VDD_5V_HIPOWER Pin=L101-P$1
+Added Pin To Net: NetName=NetD101_C Pin=L101-P$2
+Added Pin To Net: NetName=GND Pin=L102-GND
+Added Pin To Net: NetName=GND Pin=L102-GND
+Added Pin To Net: NetName=GND Pin=L102-GND
+Added Pin To Net: NetName=VDD_5V_PERIPH Pin=L102-P$1
+Added Pin To Net: NetName=PERIPH_5V Pin=L102-P$2
+Added Pin To Net: NetName=GND Pin=L103-GND
+Added Pin To Net: NetName=GND Pin=L103-GND
+Added Pin To Net: NetName=GND Pin=L103-GND
+Added Pin To Net: NetName=VDD_5V_PERIPH Pin=L103-P$1
+Added Pin To Net: NetName=NetD104_C Pin=L103-P$2
+Added Pin To Net: NetName=GND Pin=L104-GND
+Added Pin To Net: NetName=GND Pin=L104-GND
+Added Pin To Net: NetName=GND Pin=L104-GND
+Added Pin To Net: NetName=VDD_5V_PERIPH Pin=L104-P$1
+Added Pin To Net: NetName=NetD105_C Pin=L104-P$2
+Added Pin To Net: NetName=GND Pin=L105-GND
+Added Pin To Net: NetName=GND Pin=L105-GND
+Added Pin To Net: NetName=GND Pin=L105-GND
+Added Pin To Net: NetName=VDD_5V_PERIPH Pin=L105-P$1
+Added Pin To Net: NetName=NetD106_C Pin=L105-P$2
+Added Pin To Net: NetName=GND Pin=L106-GND
+Added Pin To Net: NetName=GND Pin=L106-GND
+Added Pin To Net: NetName=GND Pin=L106-GND
+Added Pin To Net: NetName=VDD_5V_PERIPH Pin=L106-P$1
+Added Pin To Net: NetName=NetD108_C Pin=L106-P$2
+Added Pin To Net: NetName=GND Pin=L107-GND
+Added Pin To Net: NetName=GND Pin=L107-GND
+Added Pin To Net: NetName=GND Pin=L107-GND
+Added Pin To Net: NetName=VDD_5V_PERIPH Pin=L107-P$1
+Added Pin To Net: NetName=NetD107_C Pin=L107-P$2
+Added Pin To Net: NetName=GND Pin=L300-GND
+Added Pin To Net: NetName=GND Pin=L300-GND
+Added Pin To Net: NetName=GND Pin=L300-GND
+Added Pin To Net: NetName=NetD300_CATHODE Pin=L300-P$1
+Added Pin To Net: NetName=VDD_SERVO_IN Pin=L300-P$2
+Added Pin To Net: NetName=NetL600_P$1 Pin=L600-1
+Added Pin To Net: NetName=4V38 Pin=L600-2
+Added Pin To Net: NetName=NetL601_P$1 Pin=L601-P$1
+Added Pin To Net: NetName=NetC605_P$1 Pin=L601-P$2
+Added Pin To Net: NetName=NetLED600_A Pin=LED600-A
+Added Pin To Net: NetName=NetLED600_C Pin=LED600-C
+Added Pin To Net: NetName=NetLED601_A Pin=LED601-A
+Added Pin To Net: NetName=NetLED601_C Pin=LED601-C
+Added Pin To Net: NetName=1V8 Pin=LV600-1
+Added Pin To Net: NetName=GND Pin=LV600-2
+Added Pin To Net: NetName=UART_1_TX Pin=LV600-3
+Added Pin To Net: NetName=SERIAL2_RX Pin=LV600-4
+Added Pin To Net: NetName=1V8 Pin=LV600-5
+Added Pin To Net: NetName=3V3 Pin=LV600-6
+Added Pin To Net: NetName=1V8 Pin=LV601-1
+Added Pin To Net: NetName=GND Pin=LV601-2
+Added Pin To Net: NetName=UART_1_RX Pin=LV601-3
+Added Pin To Net: NetName=SERIAL2_TX Pin=LV601-4
+Added Pin To Net: NetName=GND Pin=LV601-5
+Added Pin To Net: NetName=3V3 Pin=LV601-6
+Added Pin To Net: NetName=1V8 Pin=LV602-1
+Added Pin To Net: NetName=GND Pin=LV602-2
+Added Pin To Net: NetName=UART_1_CTS Pin=LV602-3
+Added Pin To Net: NetName=SERIAL2_RTS Pin=LV602-4
+Added Pin To Net: NetName=GND Pin=LV602-5
+Added Pin To Net: NetName=3V3 Pin=LV602-6
+Added Pin To Net: NetName=1V8 Pin=LV603-1
+Added Pin To Net: NetName=GND Pin=LV603-2
+Added Pin To Net: NetName=UART_1_RTS Pin=LV603-3
+Added Pin To Net: NetName=SERIAL2_CTS Pin=LV603-4
+Added Pin To Net: NetName=1V8 Pin=LV603-5
+Added Pin To Net: NetName=3V3 Pin=LV603-6
+Added Pin To Net: NetName=1V8 Pin=LV604-1
+Added Pin To Net: NetName=GND Pin=LV604-2
+Added Pin To Net: NetName=UART_2_TX Pin=LV604-3
+Added Pin To Net: NetName=UART_2_TX_OUT Pin=LV604-4
+Added Pin To Net: NetName=1V8 Pin=LV604-5
+Added Pin To Net: NetName=3V3 Pin=LV604-6
+Added Pin To Net: NetName=1V8 Pin=LV605-1
+Added Pin To Net: NetName=GND Pin=LV605-2
+Added Pin To Net: NetName=UART_2_RX Pin=LV605-3
+Added Pin To Net: NetName=UART_2_RX_OUT Pin=LV605-4
+Added Pin To Net: NetName=GND Pin=LV605-5
+Added Pin To Net: NetName=3V3 Pin=LV605-6
+Added Pin To Net: NetName=GND Pin=Nut 600-0
+Added Pin To Net: NetName=GND Pin=Nut 601-0
+Added Pin To Net: NetName=NetD101_C Pin=P100-1
+Added Pin To Net: NetName=SERIAL1_TX Pin=P100-2
+Added Pin To Net: NetName=SERIAL1_RX Pin=P100-3
+Added Pin To Net: NetName=SERIAL1_CTS Pin=P100-4
+Added Pin To Net: NetName=SERIAL1_RTS Pin=P100-5
+Added Pin To Net: NetName=GND Pin=P100-6
+Added Pin To Net: NetName=GND Pin=P100-GND
+Added Pin To Net: NetName=GND Pin=P100-GND
+Added Pin To Net: NetName=5V_PRES Pin=P101-1
+Added Pin To Net: NetName=PRESSURE_SENS_IN Pin=P101-2
+Added Pin To Net: NetName=GND Pin=P101-3
+Added Pin To Net: NetName=GND Pin=P101-GND
+Added Pin To Net: NetName=GND Pin=P101-GND
+Added Pin To Net: NetName=NetD104_C Pin=P102-1
+Added Pin To Net: NetName=I2C_2_SCL Pin=P102-2
+Added Pin To Net: NetName=I2C_2_SDA Pin=P102-3
+Added Pin To Net: NetName=GND Pin=P102-4
+Added Pin To Net: NetName=GND Pin=P102-GND
+Added Pin To Net: NetName=GND Pin=P102-GND
+Added Pin To Net: NetName=PERIPH_5V Pin=P103-1
+Added Pin To Net: NetName=SERIAL2_TX Pin=P103-2
+Added Pin To Net: NetName=SERIAL2_RX Pin=P103-3
+Added Pin To Net: NetName=SERIAL2_CTS Pin=P103-4
+Added Pin To Net: NetName=SERIAL2_RTS Pin=P103-5
+Added Pin To Net: NetName=GND Pin=P103-6
+Added Pin To Net: NetName=GND Pin=P103-GND
+Added Pin To Net: NetName=GND Pin=P103-GND
+Added Pin To Net: NetName=NetD106_C Pin=P104-1
+Added Pin To Net: NetName=CAN_H_2 Pin=P104-2
+Added Pin To Net: NetName=CAN_L_2 Pin=P104-3
+Added Pin To Net: NetName=GND Pin=P104-4
+Added Pin To Net: NetName=GND Pin=P104-GND
+Added Pin To Net: NetName=GND Pin=P104-GND
+Added Pin To Net: NetName=VDD_5V_PERIPH Pin=P105-1
+Added Pin To Net: NetName=IO-USART1_TX Pin=P105-2
+Added Pin To Net: NetName=IO-USART1_RX_SPECTRUM_DSM Pin=P105-3
+Added Pin To Net: NetName=IO-SWDIO Pin=P105-4
+Added Pin To Net: NetName=IO-SWCLK Pin=P105-5
+Added Pin To Net: NetName=GND Pin=P105-6
+Added Pin To Net: NetName=GND Pin=P105-GND
+Added Pin To Net: NetName=GND Pin=P105-GND
+Added Pin To Net: NetName=VDD_5V_PERIPH Pin=P106-1
+Added Pin To Net: NetName=SERIAL5_TX Pin=P106-2
+Added Pin To Net: NetName=SERIAL5_RX Pin=P106-3
+Added Pin To Net: NetName=FMU-SWDIO Pin=P106-4
+Added Pin To Net: NetName=FMU-SWCLK Pin=P106-5
+Added Pin To Net: NetName=GND Pin=P106-6
+Added Pin To Net: NetName=GND Pin=P106-GND
+Added Pin To Net: NetName=GND Pin=P106-GND
+Added Pin To Net: NetName=NetD105_C Pin=P107-1
+Added Pin To Net: NetName=SERIAL3_TX Pin=P107-2
+Added Pin To Net: NetName=SERIAL3_RX Pin=P107-3
+Added Pin To Net: NetName=I2C_1_SCL Pin=P107-4
+Added Pin To Net: NetName=I2C_1_SDA Pin=P107-5
+Added Pin To Net: NetName=SAFETY Pin=P107-6
+Added Pin To Net: NetName=I\O\-\L\E\D\_\S\A\F\E\T\_\P\R\O\T\ Pin=P107-7
+Added Pin To Net: NetName=GND Pin=P107-8
+Added Pin To Net: NetName=GND Pin=P107-GND
+Added Pin To Net: NetName=GND Pin=P107-GND
+Added Pin To Net: NetName=NetD108_C Pin=P108-1
+Added Pin To Net: NetName=CAN_H_1 Pin=P108-2
+Added Pin To Net: NetName=CAN_L_1 Pin=P108-3
+Added Pin To Net: NetName=GND Pin=P108-4
+Added Pin To Net: NetName=GND Pin=P108-GND
+Added Pin To Net: NetName=GND Pin=P108-GND
+Added Pin To Net: NetName=NetD107_C Pin=P109-1
+Added Pin To Net: NetName=SERIAL4_TX Pin=P109-2
+Added Pin To Net: NetName=SERIAL4_RX Pin=P109-3
+Added Pin To Net: NetName=I2C_2_SCL Pin=P109-4
+Added Pin To Net: NetName=I2C_2_SDA Pin=P109-5
+Added Pin To Net: NetName=GND Pin=P109-6
+Added Pin To Net: NetName=GND Pin=P109-GND
+Added Pin To Net: NetName=GND Pin=P109-GND
+Added Pin To Net: NetName=VDD_5V_BRICK Pin=P200-1
+Added Pin To Net: NetName=VDD_5V_BRICK Pin=P200-2
+Added Pin To Net: NetName=BATT_CURRENT_SENS_PROT Pin=P200-3
+Added Pin To Net: NetName=BATT_VOLTAGE_SENS_PROT Pin=P200-4
+Added Pin To Net: NetName=GND Pin=P200-5
+Added Pin To Net: NetName=GND Pin=P200-6
+Added Pin To Net: NetName=GND Pin=P200-GND
+Added Pin To Net: NetName=GND Pin=P200-GND
+Added Pin To Net: NetName=VBUS Pin=P201-1
+Added Pin To Net: NetName=OTG_DP1 Pin=P201-2
+Added Pin To Net: NetName=OTG_DM1 Pin=P201-3
+Added Pin To Net: NetName=GND Pin=P201-4
+Added Pin To Net: NetName=BUZZER_OUT Pin=P201-5
+Added Pin To Net: NetName=F\M\U\-\L\E\D\_\A\M\B\E\R\ Pin=P201-6
+Added Pin To Net: NetName=GND Pin=P201-GND
+Added Pin To Net: NetName=GND Pin=P201-GND
+Added Pin To Net: NetName=VDD_5V_BACKUP Pin=P202-1
+Added Pin To Net: NetName=VDD_5V_BACKUP Pin=P202-2
+Added Pin To Net: NetName=AUX_BATT_CURRENT_SENS Pin=P202-3
+Added Pin To Net: NetName=AUX_BATT_VOLTAGE_SENS Pin=P202-4
+Added Pin To Net: NetName=GND Pin=P202-5
+Added Pin To Net: NetName=GND Pin=P202-6
+Added Pin To Net: NetName=GND Pin=P202-GND
+Added Pin To Net: NetName=GND Pin=P202-GND
+Added Pin To Net: NetName=S.BUS_OUT Pin=P301-1
+Added Pin To Net: NetName=SERIAL5_TX Pin=P301-2
+Added Pin To Net: NetName=VDD_SERVO Pin=P301-3
+Added Pin To Net: NetName=SERIAL5_RX Pin=P301-4
+Added Pin To Net: NetName=GND Pin=P301-5
+Added Pin To Net: NetName=GND Pin=P301-6
+Added Pin To Net: NetName=FMU-CH1-PROT Pin=P304-1
+Added Pin To Net: NetName=FMU-CH2-PROT Pin=P304-2
+Added Pin To Net: NetName=FMU-CH3-PROT Pin=P304-3
+Added Pin To Net: NetName=FMU-CH4-PROT Pin=P304-4
+Added Pin To Net: NetName=FMU-CH5-PROT Pin=P304-5
+Added Pin To Net: NetName=FMU-CH6-PROT Pin=P304-6
+Added Pin To Net: NetName=IO-CH1-PROT Pin=P304-7
+Added Pin To Net: NetName=IO-CH2-PROT Pin=P304-8
+Added Pin To Net: NetName=IO-CH3-PROT Pin=P304-9
+Added Pin To Net: NetName=IO-CH4-PROT Pin=P304-10
+Added Pin To Net: NetName=IO-CH5-PROT Pin=P304-11
+Added Pin To Net: NetName=IO-CH6-PROT Pin=P304-12
+Added Pin To Net: NetName=IO-CH7-PROT Pin=P304-13
+Added Pin To Net: NetName=IO-CH8-PROT Pin=P304-14
+Added Pin To Net: NetName=PPM-SBUS-PROT Pin=P304-15
+Added Pin To Net: NetName=GND Pin=P304-GND
+Added Pin To Net: NetName=GND Pin=P304-GND
+Added Pin To Net: NetName=GND Pin=P304-GND
+Added Pin To Net: NetName=GND Pin=P304-GND
+Added Pin To Net: NetName=GND Pin=P304-GND
+Added Pin To Net: NetName=GND Pin=P304-GND
+Added Pin To Net: NetName=GND Pin=P304-GND
+Added Pin To Net: NetName=GND Pin=P304-GND
+Added Pin To Net: NetName=GND Pin=P304-GND
+Added Pin To Net: NetName=GND Pin=P304-GND
+Added Pin To Net: NetName=GND Pin=P304-GND
+Added Pin To Net: NetName=GND Pin=P304-GND
+Added Pin To Net: NetName=GND Pin=P304-GND
+Added Pin To Net: NetName=GND Pin=P304-GND
+Added Pin To Net: NetName=GND Pin=P304-GND
+Added Pin To Net: NetName=RX_5V0_OUT Pin=P304-RX 5V
+Added Pin To Net: NetName=VDD_SERVO Pin=P304-SERVO VCC
+Added Pin To Net: NetName=VDD_SERVO Pin=P304-SERVO VCC
+Added Pin To Net: NetName=VDD_SERVO Pin=P304-SERVO VCC
+Added Pin To Net: NetName=VDD_SERVO Pin=P304-SERVO VCC
+Added Pin To Net: NetName=VDD_SERVO Pin=P304-SERVO VCC
+Added Pin To Net: NetName=VDD_SERVO Pin=P304-SERVO VCC
+Added Pin To Net: NetName=VDD_SERVO Pin=P304-SERVO VCC
+Added Pin To Net: NetName=VDD_SERVO Pin=P304-SERVO VCC
+Added Pin To Net: NetName=VDD_SERVO Pin=P304-SERVO VCC
+Added Pin To Net: NetName=VDD_SERVO Pin=P304-SERVO VCC
+Added Pin To Net: NetName=VDD_SERVO Pin=P304-SERVO VCC
+Added Pin To Net: NetName=VDD_SERVO Pin=P304-SERVO VCC
+Added Pin To Net: NetName=VDD_SERVO Pin=P304-SERVO VCC
+Added Pin To Net: NetName=VDD_SERVO Pin=P304-SERVO VCC
+Add Pin To Net: Unknown Pin: Pin P500-1
+Add Pin To Net: Unknown Pin: Pin P500-2
+Add Pin To Net: Unknown Pin: Pin P500-3
+Add Pin To Net: Unknown Pin: Pin P500-4
+Add Pin To Net: Unknown Pin: Pin P500-5
+Add Pin To Net: Unknown Pin: Pin P500-6
+Add Pin To Net: Unknown Pin: Pin P500-7
+Add Pin To Net: Unknown Pin: Pin P500-9
+Add Pin To Net: Unknown Pin: Pin P500-11
+Add Pin To Net: Unknown Pin: Pin P500-12
+Add Pin To Net: Unknown Pin: Pin P500-13
+Add Pin To Net: Unknown Pin: Pin P500-14
+Add Pin To Net: Unknown Pin: Pin P500-15
+Add Pin To Net: Unknown Pin: Pin P500-16
+Add Pin To Net: Unknown Pin: Pin P500-17
+Add Pin To Net: Unknown Pin: Pin P500-18
+Add Pin To Net: Unknown Pin: Pin P500-19
+Add Pin To Net: Unknown Pin: Pin P500-20
+Add Pin To Net: Unknown Pin: Pin P500-21
+Add Pin To Net: Unknown Pin: Pin P500-22
+Add Pin To Net: Unknown Pin: Pin P500-23
+Add Pin To Net: Unknown Pin: Pin P500-24
+Add Pin To Net: Unknown Pin: Pin P500-25
+Add Pin To Net: Unknown Pin: Pin P500-27
+Add Pin To Net: Unknown Pin: Pin P500-28
+Add Pin To Net: Unknown Pin: Pin P500-29
+Add Pin To Net: Unknown Pin: Pin P500-30
+Add Pin To Net: Unknown Pin: Pin P500-31
+Add Pin To Net: Unknown Pin: Pin P500-32
+Add Pin To Net: Unknown Pin: Pin P500-33
+Add Pin To Net: Unknown Pin: Pin P500-34
+Add Pin To Net: Unknown Pin: Pin P500-35
+Add Pin To Net: Unknown Pin: Pin P500-36
+Add Pin To Net: Unknown Pin: Pin P500-37
+Add Pin To Net: Unknown Pin: Pin P500-38
+Add Pin To Net: Unknown Pin: Pin P500-39
+Add Pin To Net: Unknown Pin: Pin P500-40
+Add Pin To Net: Unknown Pin: Pin P500-41
+Add Pin To Net: Unknown Pin: Pin P500-42
+Add Pin To Net: Unknown Pin: Pin P500-43
+Add Pin To Net: Unknown Pin: Pin P500-44
+Add Pin To Net: Unknown Pin: Pin P500-45
+Add Pin To Net: Unknown Pin: Pin P500-46
+Add Pin To Net: Unknown Pin: Pin P500-47
+Add Pin To Net: Unknown Pin: Pin P500-48
+Add Pin To Net: Unknown Pin: Pin P500-49
+Add Pin To Net: Unknown Pin: Pin P500-50
+Add Pin To Net: Unknown Pin: Pin P500-51
+Add Pin To Net: Unknown Pin: Pin P500-52
+Add Pin To Net: Unknown Pin: Pin P500-53
+Add Pin To Net: Unknown Pin: Pin P500-54
+Add Pin To Net: Unknown Pin: Pin P500-55
+Add Pin To Net: Unknown Pin: Pin P500-56
+Add Pin To Net: Unknown Pin: Pin P500-57
+Add Pin To Net: Unknown Pin: Pin P500-58
+Add Pin To Net: Unknown Pin: Pin P500-59
+Add Pin To Net: Unknown Pin: Pin P500-60
+Add Pin To Net: Unknown Pin: Pin P500-61
+Add Pin To Net: Unknown Pin: Pin P500-62
+Add Pin To Net: Unknown Pin: Pin P500-63
+Add Pin To Net: Unknown Pin: Pin P500-64
+Add Pin To Net: Unknown Pin: Pin P500-66
+Add Pin To Net: Unknown Pin: Pin P500-67
+Add Pin To Net: Unknown Pin: Pin P500-68
+Add Pin To Net: Unknown Pin: Pin P500-69
+Add Pin To Net: Unknown Pin: Pin P500-70
+Add Pin To Net: Unknown Pin: Pin P500-71
+Add Pin To Net: Unknown Pin: Pin P500-72
+Add Pin To Net: Unknown Pin: Pin P500-73
+Add Pin To Net: Unknown Pin: Pin P500-74
+Add Pin To Net: Unknown Pin: Pin P500-75
+Add Pin To Net: Unknown Pin: Pin P500-76
+Add Pin To Net: Unknown Pin: Pin P500-77
+Add Pin To Net: Unknown Pin: Pin P500-78
+Add Pin To Net: Unknown Pin: Pin P500-79
+Add Pin To Net: Unknown Pin: Pin P500-80
+Add Pin To Net: Unknown Pin: Pin P500-GND
+Added Pin To Net: NetName=GND Pin=P600-1
+Added Pin To Net: NetName=VSYS Pin=P600-2
+Added Pin To Net: NetName=USB_ID Pin=P600-3
+Added Pin To Net: NetName=VSYS Pin=P600-4
+Added Pin To Net: NetName=GND Pin=P600-5
+Added Pin To Net: NetName=VSYS Pin=P600-6
+Added Pin To Net: NetName=MSIC_SLP_CLK3 Pin=P600-7
+Added Pin To Net: NetName=3V3 Pin=P600-8
+Added Pin To Net: NetName=GND Pin=P600-9
+Added Pin To Net: NetName=3V3 Pin=P600-10
+Added Pin To Net: NetName=GND Pin=P600-11
+Added Pin To Net: NetName=1V8 Pin=P600-12
+Added Pin To Net: NetName=GND Pin=P600-13
+Added Pin To Net: NetName=GND Pin=P600-15
+Added Pin To Net: NetName=USB_DP Pin=P600-16
+Added Pin To Net: NetName=PWRBTN# Pin=P600-17
+Added Pin To Net: NetName=USB_DN Pin=P600-18
+Added Pin To Net: NetName=FAULT Pin=P600-19
+Added Pin To Net: NetName=USB_VBUS Pin=P600-20
+Added Pin To Net: NetName=PSW Pin=P600-21
+Added Pin To Net: NetName=UART_2_RX Pin=P600-22
+Added Pin To Net: NetName=V_VBAT_BKUP Pin=P600-23
+Added Pin To Net: NetName=GP44 Pin=P600-24
+Added Pin To Net: NetName=GP165 Pin=P600-25
+Added Pin To Net: NetName=GP45 Pin=P600-26
+Added Pin To Net: NetName=UART_2_TX Pin=P600-27
+Added Pin To Net: NetName=GP46 Pin=P600-28
+Added Pin To Net: NetName=GP47 Pin=P600-30
+Added Pin To Net: NetName=RCVR_MODE Pin=P600-31
+Added Pin To Net: NetName=GP48 Pin=P600-32
+Added Pin To Net: NetName=GP13_PWM1 Pin=P600-33
+Added Pin To Net: NetName=GP49 Pin=P600-34
+Added Pin To Net: NetName=GP12_PWM0 Pin=P600-35
+Added Pin To Net: NetName=RESET_OUT# Pin=P600-36
+Added Pin To Net: NetName=GP182_PWM2 Pin=P600-37
+Added Pin To Net: NetName=GP183_PWM3 Pin=P600-39
+Added Pin To Net: NetName=I2C_1_SCL_ED Pin=P600-41
+Added Pin To Net: NetName=GP15 Pin=P600-42
+Added Pin To Net: NetName=I2C_1_SDA_ED Pin=P600-43
+Added Pin To Net: NetName=SD_0_CLK_FB Pin=P600-44
+Added Pin To Net: NetName=I2C_6_SCL Pin=P600-45
+Added Pin To Net: NetName=UART_1_TX Pin=P600-46
+Added Pin To Net: NetName=I2C_6_SDA Pin=P600-47
+Added Pin To Net: NetName=GP14 Pin=P600-48
+Added Pin To Net: NetName=GP42 Pin=P600-50
+Added Pin To Net: NetName=SPI_2_FS1 Pin=P600-51
+Added Pin To Net: NetName=GP40 Pin=P600-52
+Added Pin To Net: NetName=SPI_2_FS0 Pin=P600-53
+Added Pin To Net: NetName=GP41 Pin=P600-54
+Added Pin To Net: NetName=SPI_2_CLK Pin=P600-55
+Added Pin To Net: NetName=GP43 Pin=P600-56
+Added Pin To Net: NetName=SPI_2_TXD Pin=P600-57
+Added Pin To Net: NetName=SD_0_CLK Pin=P600-58
+Added Pin To Net: NetName=SPI_2_RXD Pin=P600-59
+Added Pin To Net: NetName=SD_0_CD# Pin=P600-60
+Added Pin To Net: NetName=UART_1_RX Pin=P600-61
+Added Pin To Net: NetName=SD_0_CMD Pin=P600-62
+Added Pin To Net: NetName=UART_1_RTS Pin=P600-63
+Added Pin To Net: NetName=SD_0_DAT2 Pin=P600-64
+Added Pin To Net: NetName=UART_1_CTS Pin=P600-65
+Added Pin To Net: NetName=SD_0_DAT0 Pin=P600-66
+Added Pin To Net: NetName=OSC_CLK_OUT_0 Pin=P600-67
+Added Pin To Net: NetName=SD_0_DAT3 Pin=P600-68
+Added Pin To Net: NetName=FW_RCVR Pin=P600-69
+Added Pin To Net: NetName=SD_0_DAT1 Pin=P600-70
+Added Pin To Net: NetName=VDD_5V_HIPOWER Pin=PSM200-5V_HIPOWER
+Added Pin To Net: NetName=VDD_5V_PERIPH Pin=PSM200-5V_PERIPH
+Added Pin To Net: NetName=V\B\U\S\_\V\A\L\I\D\ Pin=PSM200-!VBUS_VALID
+Added Pin To Net: NetName=V\D\D\_\5\V\_\H\I\P\O\W\E\R\_\O\C\ Pin=PSM200-!VDD_5V_HIPOWER_OC
+Added Pin To Net: NetName=V\D\D\_\5\V\_\P\E\R\I\P\H\_\E\N\ Pin=PSM200-!VDD_5V_PERIPH_EN
+Added Pin To Net: NetName=V\D\D\_\5\V\_\P\E\R\I\P\H\_\O\C\ Pin=PSM200-!VDD_5V_PERIPH_OC
+Added Pin To Net: NetName=V\D\D\_\B\A\C\K\U\P\_\V\A\L\I\D\ Pin=PSM200-!VDD_BACKUP_VALID
+Added Pin To Net: NetName=V\D\D\_\B\R\I\C\K\_\V\A\L\I\D\ Pin=PSM200-!VDD_BRICK_VALID
+Added Pin To Net: NetName=ALARM Pin=PSM200-ALARM
+Added Pin To Net: NetName=BUZZER_OUT Pin=PSM200-BUZZER_OUT
+Added Pin To Net: NetName=GND Pin=PSM200-GND
+Added Pin To Net: NetName=GND Pin=PSM200-GND
+Added Pin To Net: NetName=RX_5V0_OUT Pin=PSM200-RX
+Added Pin To Net: NetName=VDD_SERVO_IN Pin=PSM200-SERVO_IN
+Added Pin To Net: NetName=VDD_3V3_SPEKTRUM Pin=PSM200-SPEK
+Added Pin To Net: NetName=VBUS Pin=PSM200-VBUS
+Added Pin To Net: NetName=VDD_3V3_SPEKTRUM_EN Pin=PSM200-VDD_3V3_SPEKTRUM_EN
+Added Pin To Net: NetName=VDD_5V_BACKUP Pin=PSM200-VDD_5V_BACKUP
+Added Pin To Net: NetName=VDD_5V_BACKUP Pin=PSM200-VDD_5V_BACKUP
+Added Pin To Net: NetName=VDD_5V_IN_PROT Pin=PSM200-VDD_5V_IN_PROT
+Added Pin To Net: NetName=VDD_5V_BRICK Pin=PSM200-VDD_BRICK_IN
+Added Pin To Net: NetName=VDD_5V_BRICK Pin=PSM200-VDD_BRICK_IN
+Added Pin To Net: NetName=VBUS Pin=PSM200-VDD_VBUS
+Added Pin To Net: NetName=VBUS Pin=PSM200-VDD_VBUS
+Add Pin To Net: Unknown Pin: Pin R600-P$1
+Add Pin To Net: Unknown Pin: Pin R600-P$2
+Add Pin To Net: Unknown Pin: Pin R603-P$1
+Add Pin To Net: Unknown Pin: Pin R603-P$2
+Add Pin To Net: Unknown Pin: Pin R605-P$1
+Add Pin To Net: Unknown Pin: Pin R605-P$2
+Add Pin To Net: Unknown Pin: Pin R606-P$1
+Add Pin To Net: Unknown Pin: Pin R606-P$2
+Add Pin To Net: Unknown Pin: Pin R607-P$1
+Add Pin To Net: Unknown Pin: Pin R607-P$2
+Add Pin To Net: Unknown Pin: Pin R608-P$1
+Add Pin To Net: Unknown Pin: Pin R608-P$2
+Add Pin To Net: Unknown Pin: Pin R609-P$1
+Add Pin To Net: Unknown Pin: Pin R609-P$2
+Add Pin To Net: Unknown Pin: Pin R610-P$1
+Add Pin To Net: Unknown Pin: Pin R610-P$2
+Add Pin To Net: Unknown Pin: Pin R611-P$1
+Add Pin To Net: Unknown Pin: Pin R611-P$2
+Add Pin To Net: Unknown Pin: Pin R612-P$1
+Add Pin To Net: Unknown Pin: Pin R612-P$2
+Add Pin To Net: Unknown Pin: Pin R613-P$1
+Add Pin To Net: Unknown Pin: Pin R613-P$2
+Added Pin To Net: NetName=SERIAL1_RX Pin=S1RX-P$1
+Added Pin To Net: NetName=SERIAL1_TX Pin=S1TX-P$1
+Added Pin To Net: NetName=SERIAL2_RX Pin=S2RX-P$1
+Added Pin To Net: NetName=SERIAL2_TX Pin=S2TX-P$1
+Added Pin To Net: NetName=SERIAL3_RX Pin=S3RX-P$1
+Added Pin To Net: NetName=SERIAL3_TX Pin=S3TX-P$1
+Added Pin To Net: NetName=SERIAL4_RX Pin=S4RX-P$1
+Added Pin To Net: NetName=SERIAL4_TX Pin=S4TX-P$1
+Added Pin To Net: NetName=SERIAL5_RX Pin=S5_RX-P$1
+Added Pin To Net: NetName=SERIAL5_TX Pin=S5_TX-P$1
+Added Pin To Net: NetName=NetR610_P$1 Pin=S600-A1
+Added Pin To Net: NetName=GND Pin=S600-B3
+Added Pin To Net: NetName=FW_RCVR Pin=S601-A1
+Added Pin To Net: NetName=NetR611_P$1 Pin=S601-B3
+Added Pin To Net: NetName=RCVR_MODE Pin=S602-A1
+Added Pin To Net: NetName=GND Pin=S602-B3
+Added Pin To Net: NetName=E\X\T\E\R\N\_\C\S\ Pin=SPI!CS1-P$1
+Added Pin To Net: NetName=SPI_EXT_MISO Pin=SPI_MISO1-P$1
+Added Pin To Net: NetName=SPI_EXT_MOSI Pin=SPI_MOSI1-P$1
+Added Pin To Net: NetName=SPI_EXT_SCK Pin=SPI_SCK1-P$1
+Added Pin To Net: NetName=IO-USART1_RX_SPECTRUM_DSM Pin=SPKT100-1
+Added Pin To Net: NetName=GND Pin=SPKT100-2
+Added Pin To Net: NetName=VDD_3V3_SPEKTRUM Pin=SPKT100-3
+Added Pin To Net: NetName=NetL600_P$1 Pin=U601-1
+Added Pin To Net: NetName=NetL600_P$1 Pin=U601-2
+Added Pin To Net: NetName=NetL600_P$1 Pin=U601-3
+Added Pin To Net: NetName=NetR600_P$1 Pin=U601-5
+Added Pin To Net: NetName=GND Pin=U601-6
+Added Pin To Net: NetName=GND Pin=U601-7
+Added Pin To Net: NetName=GND Pin=U601-8
+Added Pin To Net: NetName=NetC603_P$1 Pin=U601-9
+Added Pin To Net: NetName=VDD_5V_HIPOWER Pin=U601-10
+Added Pin To Net: NetName=VDD_5V_HIPOWER Pin=U601-11
+Added Pin To Net: NetName=VDD_5V_HIPOWER Pin=U601-12
+Added Pin To Net: NetName=VDD_5V_HIPOWER Pin=U601-13
+Added Pin To Net: NetName=4V38 Pin=U601-14
+Added Pin To Net: NetName=GND Pin=U601-15
+Added Pin To Net: NetName=GND Pin=U601-16
+Added Pin To Net: NetName=GND Pin=U601-17
+Added Pin To Net: NetName=NetC604_P$1 Pin=U603-1
+Added Pin To Net: NetName=UART_2_TX_OUT Pin=U603-2
+Added Pin To Net: NetName=GND Pin=U603-4
+Added Pin To Net: NetName=NetU603_14 Pin=U603-14
+Added Pin To Net: NetName=NetU603_15 Pin=U603-15
+Added Pin To Net: NetName=NetC604_P$1 Pin=U603-16
+Added Pin To Net: NetName=GND Pin=U603-17
+Added Pin To Net: NetName=NetC605_P$1 Pin=U603-19
+Added Pin To Net: NetName=GND Pin=U603-20
+Added Pin To Net: NetName=NetLED601_C Pin=U603-21
+Added Pin To Net: NetName=NetLED600_C Pin=U603-22
+Added Pin To Net: NetName=GND Pin=U603-24
+Added Pin To Net: NetName=GND Pin=U603-26
+Added Pin To Net: NetName=UART_2_RX_OUT Pin=U603-30
+Added Pin To Net: NetName=GND Pin=U603-33
+Added Pin To Net: NetName=NetU603_14 Pin=USB600-D+
+Added Pin To Net: NetName=NetU603_15 Pin=USB600-D-
+Added Pin To Net: NetName=GND Pin=USB600-GND1
+Added Pin To Net: NetName=GND Pin=USB600-GND2
+Added Pin To Net: NetName=GND Pin=USB600-GND3
+Added Pin To Net: NetName=GND Pin=USB600-GND4
+Added Pin To Net: NetName=GND Pin=USB600-GND
+Added Pin To Net: NetName=NetL601_P$1 Pin=USB600-VBUS
+Added Pin To Net: NetName=USB_DP Pin=USB601-D+
+Added Pin To Net: NetName=USB_DN Pin=USB601-D-
+Added Pin To Net: NetName=GND Pin=USB601-GND1
+Added Pin To Net: NetName=GND Pin=USB601-GND2
+Added Pin To Net: NetName=GND Pin=USB601-GND3
+Added Pin To Net: NetName=GND Pin=USB601-GND4
+Added Pin To Net: NetName=GND Pin=USB601-GND
+Added Pin To Net: NetName=USB_ID Pin=USB601-ID
+Added Pin To Net: NetName=USB_VBUS Pin=USB601-VBUS
+Added Net: Name=CAN_H_3
+Added Net: Name=CAN_L_3
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component ADC_PR PAD.04
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component BATT600
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component C600
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component C601 10.00UF
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component C602 0u1
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component C603 33000pf
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component C604 0u1
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component C605 0u1
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component D100 DIODE-TVS
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component D101 DIODE-TVS
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component D102 DIODE-TVS
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component D103 DIODE-TVS
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component D104 DIODE-TVS
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component D105 DIODE-TVS
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component D106 DIODE-TVS
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component D107 DIODE-TVS
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component D108 DIODE-TVS
+Added Member To Class: ClassName=FULL_CB_Servo_REV_C Member=Component D300 MSS1P4-M3
+Added Member To Class: ClassName=FULL_CB_Servo_REV_C Member=Component D301 DIODE-TVS
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component D_RDY1 PAD.04
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component EDISON600 Ed
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component JP100 HEADER_2MM_RA_SMD
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component L100 Kyocera KNH16C104DA5TS EMI filter
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component L101 Kyocera KNH16C104DA5TS EMI filter
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component L102 Kyocera KNH16C104DA5TS EMI filter
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component L103 Kyocera KNH16C104DA5TS EMI filter
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component L104 Kyocera KNH16C104DA5TS EMI filter
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component L105 Kyocera KNH16C104DA5TS EMI filter
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component L106 Kyocera KNH16C104DA5TS EMI filter
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component L107 Kyocera KNH16C104DA5TS EMI filter
+Added Member To Class: ClassName=FULL_CB_Servo_REV_C Member=Component L300 Kyocera KNH16C104DA5TS EMI filter
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component L600 XFL4020-222MEB
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component L601
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component LED600 BLUE
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component LED601 BLUE
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component LV600 SN74LVC1T45
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component LV601 SN74LVC1T45
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component LV602 SN74LVC1T45
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component LV603 SN74LVC1T45
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component LV604 SN74LVC1T45
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component LV605 SN74LVC1T45
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component Nut 600 PEM-SMTSO-M1.6-2-ET
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component Nut 601 PEM-SMTSO-M1.6-2-ET
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component P100 JST_GH_V6
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component P101 JST_GH_V3
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component P102 JST_GH_V4
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component P103 JST_GH_V6
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component P104 JST_GH_V4
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component P105 JST_SUR_6
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component P106 JST_SUR_6
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component P107 JST_GH_V8
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component P108 JST_GH_V4
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component P109 JST_GH_V6
+Added Member To Class: ClassName=FULL_CB_Power_REV_C Member=Component P200 CLICKMATE_2_6
+Added Member To Class: ClassName=FULL_CB_Power_REV_C Member=Component P201 JST_GH_V6
+Added Member To Class: ClassName=FULL_CB_Power_REV_C Member=Component P202 CLICKMATE_2_6
+Added Member To Class: ClassName=FULL_CB_Servo_REV_C Member=Component P301 con 2x6
+Added Member To Class: ClassName=FULL_CB_Servo_REV_C Member=Component P304 PH_2 Servo header
+Add Class Member: Failed to add class member : Component P500 CON-DF17-80M
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component P600 DF40-70_RECEPTICAL
+Added Member To Class: ClassName=FULL_CB_Power_REV_C Member=Component PSM200 Power Selection module
+Add Class Member: Failed to add class member : Component R600 47K  1%
+Add Class Member: Failed to add class member : Component R603 10.5K  1%
+Add Class Member: Failed to add class member : Component R605 100K
+Add Class Member: Failed to add class member : Component R606 10K
+Add Class Member: Failed to add class member : Component R607 220R
+Add Class Member: Failed to add class member : Component R608 220R
+Add Class Member: Failed to add class member : Component R609 0R
+Add Class Member: Failed to add class member : Component R610 10K
+Add Class Member: Failed to add class member : Component R611 220R
+Add Class Member: Failed to add class member : Component R612 220R
+Add Class Member: Failed to add class member : Component R613 10K
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component S1RX PAD.04
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component S1TX PAD.04
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component S2RX PAD.04
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component S2TX PAD.04
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component S3RX PAD.04
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component S3TX PAD.04
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component S4RX PAD.04
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component S4TX PAD.04
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component S5_RX PAD.04
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component S5_TX PAD.04
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component S600 Power
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component S601 FWR_RCVR
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component S602 RCVR_MODE
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component SPI!CS1 PAD.04
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component SPI_MISO1 PAD.04
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component SPI_MOSI1 PAD.04
+Added Member To Class: ClassName=FULL_CB_tp_REV_C Member=Component SPI_SCK1 PAD.04
+Added Member To Class: ClassName=FULL_CB_Plugs_REV_C Member=Component SPKT100 CONN_SPEKTRUM_RX-TH
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component U601 TPS62130RGTT
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component U603 FT232RQ-Reel
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component USB600 MICRO USB B, BOTTOM MOUNT
+Added Member To Class: ClassName=FULL_CB_INTEL_REV_C Member=Component USB601 MICRO USB B, BOTTOM MOUNT
+Added Room: Name=FULL_CB_80_Pin_REV_C
+Added Room: Name=FULL_CB_INTEL_REV_C
+Added Room: Name=FULL_CB_Plugs_REV_C
+Added Room: Name=FULL_CB_Power_REV_C
+Added Room: Name=FULL_CB_Servo_REV_C
+Added Room: Name=FULL_CB_tp_REV_C
