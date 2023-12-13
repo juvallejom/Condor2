@@ -1,0 +1,2 @@
+Remove Pin=ADC_PR1-P$1 From Net=PRESSURE_SENS_IN
+Change Component Designator: OldDesignator=ESC NewDesignator=*

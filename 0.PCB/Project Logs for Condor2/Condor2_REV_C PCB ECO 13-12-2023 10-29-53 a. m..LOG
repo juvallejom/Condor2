@@ -1,0 +1,9 @@
+Added Component: Designator=ADC_PR1(PAD.04X.04)
+Added Member To Class: ClassName=Condor2_ESC Member=Component * ESC Foxeer Reaptor F4
+Added Member To Class: ClassName=Condor2_tp_REV_C Member=Component ADC_PR1 PAD.04
+Added Room: Name=Condor2_80_Pin_REV_C
+Added Room: Name=Condor2__Power_REV_C
+Added Room: Name=Condor2_ESC
+Added Room: Name=Condor2_Plugs_REV_C
+Added Room: Name=Condor2_Servo_REV_C
+Added Room: Name=Condor2_tp_REV_C

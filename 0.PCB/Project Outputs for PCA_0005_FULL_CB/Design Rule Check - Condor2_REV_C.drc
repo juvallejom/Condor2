@@ -1,13 +1,58 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Joseph\Documents\Condor2\0.PCB\Condor2_REV_C.PcbDoc
-Date     : 23/11/2023
-Time     : 10:23:29 a. m.
+Date     : 13/12/2023
+Time     : 10:51:45 a. m.
 
 WARNING: Multilayer Pads with 0 size Hole found
-   Pad Free-16(67.818mm,1.676mm) on Multi-Layer
-   Pad Free-15(82.829mm,19.939mm) on Multi-Layer
-   Pad Free-18(100.686mm,0.66mm) on Multi-Layer
-   Pad Free-17(83.388mm,-16.815mm) on Multi-Layer
+   Pad Free-17(83.051mm,-15.479mm) on Multi-Layer
+   Pad Free-17(85.051mm,-15.479mm) on Multi-Layer
+   Pad Free-17(87.051mm,-15.479mm) on Multi-Layer
+   Pad Free-17(89.051mm,-15.479mm) on Multi-Layer
+   Pad Free-17(81.051mm,-15.479mm) on Multi-Layer
+   Pad Free-17(79.051mm,-15.479mm) on Multi-Layer
+   Pad Free-17(77.051mm,-15.479mm) on Multi-Layer
+   Pad Free-18(102.962mm,0.051mm) on Multi-Layer
+   Pad Free-18(102.962mm,2.051mm) on Multi-Layer
+   Pad Free-18(102.962mm,4.051mm) on Multi-Layer
+   Pad Free-18(102.962mm,6.051mm) on Multi-Layer
+   Pad Free-18(102.962mm,-1.949mm) on Multi-Layer
+   Pad Free-18(102.962mm,-5.949mm) on Multi-Layer
+   Pad Free-18(102.962mm,-3.949mm) on Multi-Layer
+   Pad Free-15(82.949mm,16.241mm) on Multi-Layer
+   Pad Free-15(84.949mm,16.241mm) on Multi-Layer
+   Pad Free-15(86.949mm,16.241mm) on Multi-Layer
+   Pad Free-15(88.949mm,16.241mm) on Multi-Layer
+   Pad Free-15(80.949mm,16.241mm) on Multi-Layer
+   Pad Free-15(78.949mm,16.241mm) on Multi-Layer
+   Pad Free-15(76.949mm,16.241mm) on Multi-Layer
+   Pad Free-18(99mm,-4mm) on Multi-Layer
+   Pad Free-18(99mm,-6mm) on Multi-Layer
+   Pad Free-18(99mm,-2mm) on Multi-Layer
+   Pad Free-18(99mm,6mm) on Multi-Layer
+   Pad Free-18(99mm,4mm) on Multi-Layer
+   Pad Free-18(99mm,2mm) on Multi-Layer
+   Pad Free-16(67mm,-4mm) on Multi-Layer
+   Pad Free-16(67mm,-6mm) on Multi-Layer
+   Pad Free-16(67mm,-2mm) on Multi-Layer
+   Pad Free-16(67.103mm,6mm) on Multi-Layer
+   Pad Free-16(67mm,4mm) on Multi-Layer
+   Pad Free-16(67mm,2mm) on Multi-Layer
+   Pad Free-17(77mm,-20mm) on Multi-Layer
+   Pad Free-17(79mm,-20mm) on Multi-Layer
+   Pad Free-17(81mm,-20mm) on Multi-Layer
+   Pad Free-17(89mm,-20mm) on Multi-Layer
+   Pad Free-17(87mm,-20mm) on Multi-Layer
+   Pad Free-17(85mm,-20mm) on Multi-Layer
+   Pad Free-15(77mm,20mm) on Multi-Layer
+   Pad Free-15(79mm,20mm) on Multi-Layer
+   Pad Free-15(81mm,20mm) on Multi-Layer
+   Pad Free-15(89mm,20mm) on Multi-Layer
+   Pad Free-15(87mm,20mm) on Multi-Layer
+   Pad Free-15(85mm,20mm) on Multi-Layer
+   Pad Free-16(67mm,0mm) on Multi-Layer
+   Pad Free-15(83mm,20mm) on Multi-Layer
+   Pad Free-18(99mm,0mm) on Multi-Layer
+   Pad Free-17(83mm,-20mm) on Multi-Layer
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (IsPad),(IsPad)
 Rule Violations :0
@@ -38,7 +83,8 @@ Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Polygon  (No Net) on Multi-Layer Dead Copper - Net Not Assigned.
-Rule Violations :1
+   Violation between Un-Routed Net Constraint: Polygon  (NONET_L01_P006) on Top Layer Dead Copper - Net Not Assigned.
+Rule Violations :2
 
 Processing Rule : Width Constraint (Min=0.15mm) (Max=3mm) (Preferred=0.254mm) (All)
 Rule Violations :0
@@ -71,6 +117,6 @@ Processing Rule : Silk primitive without silk layer
 Rule Violations :0
 
 
-Violations Detected : 1
+Violations Detected : 2
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02

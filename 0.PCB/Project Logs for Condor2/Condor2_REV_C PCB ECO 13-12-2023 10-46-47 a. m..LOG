@@ -1,0 +1,20 @@
+Added Component: Designator=*(FOXEeR REAPER)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=GND Pin=*-8
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Pin To Net: NetName=Net*_13 Pin=*-13
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Member To Class: ClassName=Condor2_ESC Member=Component * ESC Foxeer Reaptor F4
+Added Room: Name=Condor2_80_Pin_REV_C
+Added Room: Name=Condor2__Power_REV_C
+Added Room: Name=Condor2_ESC
+Added Room: Name=Condor2_Plugs_REV_C
+Added Room: Name=Condor2_Servo_REV_C
