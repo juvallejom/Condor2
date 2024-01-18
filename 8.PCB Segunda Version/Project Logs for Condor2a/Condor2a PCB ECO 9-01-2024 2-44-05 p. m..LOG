@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=* Old Footprint=LM2596 DC-DC HW-411 New Footprint=LM2596 DC-DC HW-411
+Change Physical Footprint: Designator=B1 Old Footprint=SOT127P600X170-8N New Footprint=SOT127P600X170-8N
+Change Physical Footprint: Designator=ESC Old Footprint=FOXEeR REAPER New Footprint=FOXEeR REAPER
+Change Physical Footprint: Designator=R4 Old Footprint=RESC6864X124N New Footprint=RESC6864X124N

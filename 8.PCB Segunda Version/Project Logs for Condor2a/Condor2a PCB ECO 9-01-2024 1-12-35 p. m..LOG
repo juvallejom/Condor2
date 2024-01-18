@@ -1,0 +1,23 @@
+Added Component: Designator=B1(SOT127P600X170-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/lmr23625"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LMR23625CDDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LMR23625CDDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR23625CDDAR?qs=8%2FmU9qzJpL%2FuNiFnLdW2uw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_3 Pin=B1-3
+Added Pin To Net: NetName=NetB1_4 Pin=B1-4
+Added Pin To Net: NetName=Vin Pin=B1-5
+Added Pin To Net: NetName=GND Pin=B1-6
+Added Pin To Net: NetName=Vin Pin=B1-7
+Added Pin To Net: NetName=GND Pin=B1-8
+Added Member To Class: ClassName=Condor2a_Power_Module Member=Component B1 LMR23625CDDAR
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3
+Added Room: Name=Condor2a_Pin_REV_C
+Added Room: Name=Condor2a_Plugs_REV_C
+Added Room: Name=Condor2a_Power_REV_C
+Added Room: Name=Condor2a_Servo_REV_C
+Added Room: Name=Condor2a_tp_REV_C

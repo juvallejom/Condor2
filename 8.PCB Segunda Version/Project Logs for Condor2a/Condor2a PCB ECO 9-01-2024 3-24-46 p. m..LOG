@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetC1_P$2 Pin=VCURR-P$1
+Change Net Name : Old Net Name=NetC1_P$2 New Net Name=V_CURRENT
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3
+Added Member To Class: ClassName=Condor2a_Power_REV_C Member=Component P202 JST_GH_V6

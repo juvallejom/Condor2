@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=VDD_5V_BACKUP Pin=P200-1
+Removed Pin From Net: NetName=VDD_5V_BACKUP Pin=P200-2
+Removed Pin From Net: NetName=AUX_BATT_CURRENT_SENS Pin=P200-3
+Removed Pin From Net: NetName=AUX_BATT_VOLTAGE_SENS Pin=P200-4
+Removed Pin From Net: NetName=GND Pin=P200-5
+Removed Pin From Net: NetName=GND Pin=P200-6
+Removed Pin From Net: NetName=GND Pin=P200-GND
+Removed Pin From Net: NetName=GND Pin=P200-GND
+Removed Member From Class: ClassName=Condor2a_Power_REV_C Member=P200
+Change Component Designator: OldDesignator= NewDesignator=*
+Change Component Designator: OldDesignator= NewDesignator=REGin
+Added Component: Designator=J1(AMASS_XT60-M)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Condor2a_Herlink Member=Component * LM2596
+Added Member To Class: ClassName=Condor2a_Power_REV_C Member=Component J1 XT60-M
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3
+Added Member To Class: ClassName=Condor2a_Herlink Member=Component REGin PAD.04
+Added Room: Name=Condor2a_Pin_REV_C
+Added Room: Name=Condor2a_Plugs_REV_C
+Added Room: Name=Condor2a_Power_REV_C
+Added Room: Name=Condor2a_Servo_REV_C
+Added Room: Name=Condor2a_tp_REV_C

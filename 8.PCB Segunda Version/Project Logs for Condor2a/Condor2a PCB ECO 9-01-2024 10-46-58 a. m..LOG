@@ -1,0 +1,133 @@
+Change Component Footprint: Designator=P500 Old Footprint= New Footprint=CON-DF17-80M
+Change Component Designator: OldDesignator=ESC  NewDesignator=ESC
+Added Component: Designator=B1(SOT127P600X170-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/lmr23625"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LMR23625CDDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LMR23625CDDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR23625CDDAR?qs=8%2FmU9qzJpL%2FuNiFnLdW2uw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C1(0402-CAP)
+Add component (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(0402-CAP)
+Add component (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(0402-CAP)
+Add component (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(0402-CAP)
+Add component (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(0402-CAP)
+Add component (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(0402-CAP)
+Add component (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(0402-CAP)
+Add component (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1047-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(Connector - Air Unir)
+Added Component: Designator=L1(0805-IND)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "240-2389-6-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC6864X124N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CSS2725FTL250/Stackpole%20Electronics%20Inc/view-part/4222273/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "CSS2725FTL250CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CSS2725FTL250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6864 Stackpole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CSS2725FTL250/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CSS2725FTL250/Stackpole%20Electronics%20Inc/view-part/4222273/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG1(LM2596 DC-DC HW-411)
+Added Component: Designator=U9(INA169)
+Added Pin To Net: NetName=GND Pin=B1-4
+Added Pin To Net: NetName=GND Pin=B1-6
+Added Pin To Net: NetName=GND Pin=B1-8
+Added Pin To Net: NetName=GND Pin=C1-P$1
+Added Pin To Net: NetName=GND Pin=C1-P$2
+Added Pin To Net: NetName=GND Pin=C2-P$1
+Added Pin To Net: NetName=GND Pin=C4-P$2
+Added Pin To Net: NetName=GND Pin=C5-P$2
+Added Pin To Net: NetName=GND Pin=C6-P$2
+Added Pin To Net: NetName=GND Pin=C7-P$2
+Add Pin To Net: Unknown Pin: Pin R1-P$1
+Add Pin To Net: Unknown Pin: Pin R5-P$1
+Add Pin To Net: Unknown Pin: Pin R5-P$2
+Add Pin To Net: Unknown Pin: Pin R6-P$1
+Add Pin To Net: Unknown Pin: Pin R7-P$1
+Add Pin To Net: Unknown Pin: Pin R7-P$2
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U9-5
+Change Net Name : Old Net Name=NetESC _1 New Net Name=NetESC_1
+Change Net Name : Old Net Name=NetESC _2 New Net Name=NetESC_2
+Change Net Name : Old Net Name=NetESC _3 New Net Name=NetESC_3
+Change Net Name : Old Net Name=NetESC _4 New Net Name=NetESC_4
+Change Net Name : Old Net Name=NetESC _5 New Net Name=NetESC_5
+Change Net Name : Old Net Name=NetESC _6 New Net Name=NetESC_6
+Change Net Name : Old Net Name=NetESC _9 New Net Name=NetESC_9
+Change Net Name : Old Net Name=NetESC _10 New Net Name=NetESC_10
+Change Net Name : Old Net Name=NetESC _11 New Net Name=NetESC_11
+Change Net Name : Old Net Name=NetESC _12 New Net Name=NetESC_12
+Change Net Name : Old Net Name=NetESC _13 New Net Name=NetESC_13
+Change Net Name : Old Net Name=NetESC _14 New Net Name=NetESC_14
+Added Pin To Net: NetName=C_IN Pin=U9-1
+Added Net: Name=C_IN
+Added Pin To Net: NetName=C_OUT Pin=R4-2
+Added Pin To Net: NetName=C_OUT Pin=U9-2
+Added Net: Name=C_OUT
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=C3-P$1
+Added Pin To Net: NetName=NetB1_1 Pin=L1-P$1
+Added Net: Name=NetB1_1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=C3-P$2
+Added Net: Name=NetB1_2
+Added Pin To Net: NetName=NetB1_3 Pin=B1-3
+Added Pin To Net: NetName=NetB1_3 Pin=C5-P$1
+Added Net: Name=NetB1_3
+Added Pin To Net: NetName=V_BATT Pin=C2-P$2
+Added Net: Name=V_BATT
+Added Net: Name=V_CURRENT
+Added Pin To Net: NetName=Vin Pin=B1-5
+Added Pin To Net: NetName=Vin Pin=B1-7
+Added Pin To Net: NetName=Vin Pin=C4-P$1
+Added Net: Name=Vin
+Added Pin To Net: NetName=VOUT Pin=C6-P$1
+Added Pin To Net: NetName=VOUT Pin=C7-P$1
+Added Pin To Net: NetName=VOUT Pin=L1-P$2
+Added Net: Name=VOUT
+Added Class: Name=Condor2a_Current_Sensor
+Added Class: Name=Condor2a_Herlink
+Added Class: Name=Condor2a_Power_Module
+Added Member To Class: ClassName=Condor2a_ESC Member=Component ESC ESC Foxeer Reaptor F4
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3
+Added Room: Name=Condor2a_Pin_REV_C
+Added Room: Name=Condor2a_Plugs_REV_C
+Added Room: Name=Condor2a_Power_REV_C
+Added Room: Name=Condor2a_Servo_REV_C
+Added Room: Name=Condor2a_tp_REV_C

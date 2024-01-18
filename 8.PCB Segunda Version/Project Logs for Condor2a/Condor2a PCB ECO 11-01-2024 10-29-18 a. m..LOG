@@ -1,0 +1,8 @@
+Change component parameters: Designator = "C6" ("C6"); Footprint = "0402-CAP"; UniqueID = "\IYSGIUBH" ("\IYSGIUBH")
+Change component parameters (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C6-P$1
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3

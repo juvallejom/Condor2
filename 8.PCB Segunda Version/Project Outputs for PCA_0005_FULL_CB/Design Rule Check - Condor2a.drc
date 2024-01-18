@@ -1,7 +1,65 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Joseph\Documents\Condor2\8.PCB Segunda Version\Condor2a.PcbDoc
-Date     : 13/12/2023
-Time     : 3:50:52 p. m.
+Date     : 11/01/2024
+Time     : 10:53:25 a. m.
+
+WARNING: Multilayer Pads with 0 size Hole found
+   Pad Free-64(65.996mm,8mm) on Multi-Layer
+   Pad Free-65(65.996mm,5.5mm) on Multi-Layer
+   Pad Free-66(65.996mm,3mm) on Multi-Layer
+   Pad Free-69(65.996mm,-4.5mm) on Multi-Layer
+   Pad Free-68(65.996mm,-2mm) on Multi-Layer
+   Pad Free-67(65.996mm,0.5mm) on Multi-Layer
+   Pad Free-70(65.996mm,-7mm) on Multi-Layer
+   Pad Free-63(67.996mm,-6.999mm) on Multi-Layer
+   Pad Free-60(67.996mm,0.501mm) on Multi-Layer
+   Pad Free-61(67.996mm,-1.999mm) on Multi-Layer
+   Pad Free-62(67.996mm,-4.499mm) on Multi-Layer
+   Pad Free-59(67.996mm,3.001mm) on Multi-Layer
+   Pad Free-58(67.996mm,5.501mm) on Multi-Layer
+   Pad Free-57(67.996mm,8.001mm) on Multi-Layer
+   Pad Free-50(100mm,8.001mm) on Multi-Layer
+   Pad Free-51(100mm,5.501mm) on Multi-Layer
+   Pad Free-52(100mm,3.001mm) on Multi-Layer
+   Pad Free-55(100mm,-4.499mm) on Multi-Layer
+   Pad Free-54(100mm,-1.999mm) on Multi-Layer
+   Pad Free-53(100mm,0.501mm) on Multi-Layer
+   Pad Free-56(100mm,-6.999mm) on Multi-Layer
+   Pad Free-49(98mm,-7mm) on Multi-Layer
+   Pad Free-46(98mm,0.5mm) on Multi-Layer
+   Pad Free-47(98mm,-2mm) on Multi-Layer
+   Pad Free-48(98mm,-4.5mm) on Multi-Layer
+   Pad Free-45(98mm,3mm) on Multi-Layer
+   Pad Free-44(98mm,5.5mm) on Multi-Layer
+   Pad Free-43(98mm,8mm) on Multi-Layer
+   Pad Free-29(75.006mm,-15.011mm) on Multi-Layer
+   Pad Free-30(77.506mm,-15.011mm) on Multi-Layer
+   Pad Free-31(80.006mm,-15.011mm) on Multi-Layer
+   Pad Free-32(82.506mm,-15.011mm) on Multi-Layer
+   Pad Free-34(87.506mm,-15.011mm) on Multi-Layer
+   Pad Free-33(85.006mm,-15.011mm) on Multi-Layer
+   Pad Free-35(90.006mm,-15.011mm) on Multi-Layer
+   Pad Free-42(90.006mm,-17.011mm) on Multi-Layer
+   Pad Free-40(85.006mm,-17.011mm) on Multi-Layer
+   Pad Free-41(87.506mm,-17.011mm) on Multi-Layer
+   Pad Free-39(82.506mm,-17.011mm) on Multi-Layer
+   Pad Free-38(80.006mm,-17.011mm) on Multi-Layer
+   Pad Free-37(77.506mm,-17.011mm) on Multi-Layer
+   Pad Free-36(75.006mm,-17.011mm) on Multi-Layer
+   Pad Free-22(75mm,15mm) on Multi-Layer
+   Pad Free-23(77.5mm,15mm) on Multi-Layer
+   Pad Free-24(80mm,15mm) on Multi-Layer
+   Pad Free-25(82.5mm,15mm) on Multi-Layer
+   Pad Free-27(87.5mm,15mm) on Multi-Layer
+   Pad Free-26(85mm,15mm) on Multi-Layer
+   Pad Free-28(90mm,15mm) on Multi-Layer
+   Pad Free-21(90mm,17mm) on Multi-Layer
+   Pad Free-19(85mm,17mm) on Multi-Layer
+   Pad Free-20(87.5mm,17mm) on Multi-Layer
+   Pad Free-18(82.5mm,17mm) on Multi-Layer
+   Pad Free-17(80mm,17mm) on Multi-Layer
+   Pad Free-16(77.5mm,17mm) on Multi-Layer
+   Pad Free-15(75mm,17mm) on Multi-Layer
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (IsPad),(IsPad)
 Rule Violations :0
@@ -31,11 +89,11 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Polygon  (Top Layer-No Net) on Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Polygon  (Top Layer-No Net) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Polygon  (NONET_L01_P014) on Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Polygon  (NONET_L02_P015) on Signal Layer 2 Dead Copper - Net Not Assigned.
 Rule Violations :2
 
-Processing Rule : Width Constraint (Min=0.15mm) (Max=2mm) (Preferred=0.254mm) (All)
+Processing Rule : Width Constraint (Min=0.15mm) (Max=4mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
@@ -57,12 +115,7 @@ Processing Rule : Silk to Silk (Clearance=0.254mm) (Disabled)(All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Track (0.09mm,-18.259mm)(0.442mm,-18.611mm) on Top Layer 
-   Violation between Net Antennae: Track (1.783mm,-18.17mm)(2.224mm,-18.611mm) on Top Layer 
-   Violation between Net Antennae: Track (3.649mm,-18.218mm)(4.042mm,-18.611mm) on Top Layer 
-   Violation between Net Antennae: Track (32.053mm,-18.108mm)(32.053mm,-17.75mm) on Bottom Layer 
-   Violation between Net Antennae: Via (5.081mm,-13.715mm) from Top Layer to Bottom Layer 
-Rule Violations :5
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
@@ -71,6 +124,6 @@ Processing Rule : Silk primitive without silk layer
 Rule Violations :0
 
 
-Violations Detected : 7
+Violations Detected : 2
 Waived Violations : 0
 Time Elapsed        : 00:00:02

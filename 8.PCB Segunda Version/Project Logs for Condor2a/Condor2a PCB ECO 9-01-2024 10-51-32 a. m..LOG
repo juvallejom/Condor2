@@ -1,0 +1,26 @@
+Added Component: Designator=R1(0402-RES)
+Added Component: Designator=R2(0402-RES)
+Added Component: Designator=R3(0402-RES)
+Added Component: Designator=R5(0402-RES)
+Added Component: Designator=R6(0402-RES)
+Added Component: Designator=R7(0402-RES)
+Added Pin To Net: NetName=GND Pin=R1-P1
+Added Pin To Net: NetName=V_BATT Pin=R1-P2
+Added Pin To Net: NetName=C_IN Pin=R2-P1
+Added Pin To Net: NetName=V_BATT Pin=R2-P2
+Added Pin To Net: NetName=C_IN Pin=R3-P1
+Added Pin To Net: NetName=V_CURRENT Pin=R3-P2
+Added Pin To Net: NetName=GND Pin=R5-P1
+Added Pin To Net: NetName=GND Pin=R5-P2
+Added Pin To Net: NetName=GND Pin=R6-P1
+Added Pin To Net: NetName=VOUT Pin=R6-P2
+Added Pin To Net: NetName=GND Pin=R7-P1
+Added Pin To Net: NetName=GND Pin=R7-P2
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3
+Added Member To Class: ClassName=Condor2a_Current_Sensor Member=Component R1 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2a_Current_Sensor Member=Component R2 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2a_Current_Sensor Member=Component R3 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2a_Current_Sensor Member=Component R5 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2a_Power_Module Member=Component R6 RESISTOR0402-RES
+Added Member To Class: ClassName=Condor2a_Power_Module Member=Component R7 RESISTOR0402-RES

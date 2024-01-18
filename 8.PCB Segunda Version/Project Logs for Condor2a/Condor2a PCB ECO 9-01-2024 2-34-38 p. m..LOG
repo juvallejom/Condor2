@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=VDD_5V_BRICK Pin=P200-1
+Removed Pin From Net: NetName=VDD_5V_BRICK Pin=P200-2
+Removed Pin From Net: NetName=BATT_CURRENT_SENS_PROT Pin=P200-3
+Removed Pin From Net: NetName=BATT_VOLTAGE_SENS_PROT Pin=P200-4
+Removed Pin From Net: NetName=GND Pin=P200-5
+Removed Pin From Net: NetName=GND Pin=P200-6
+Removed Pin From Net: NetName=GND Pin=P200-GND
+Removed Pin From Net: NetName=GND Pin=P200-GND
+Removed Member From Class: ClassName=Condor2a_Power_REV_C Member=P200
+Added Component: Designator=P202(JST_GH_V6)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_5V_BRICK Pin=P202-1
+Added Pin To Net: NetName=VDD_5V_BRICK Pin=P202-2
+Added Pin To Net: NetName=BATT_CURRENT_SENS_PROT Pin=P202-3
+Added Pin To Net: NetName=BATT_VOLTAGE_SENS_PROT Pin=P202-4
+Added Pin To Net: NetName=GND Pin=P202-5
+Added Pin To Net: NetName=GND Pin=P202-6
+Added Pin To Net: NetName=GND Pin=P202-GND
+Added Pin To Net: NetName=GND Pin=P202-GND
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3
+Added Member To Class: ClassName=Condor2a_Power_REV_C Member=Component P202 JST_GH_V6
+Added Room: Name=Condor2a_Pin_REV_C
+Added Room: Name=Condor2a_Plugs_REV_C
+Added Room: Name=Condor2a_Power_REV_C
+Added Room: Name=Condor2a_Servo_REV_C
+Added Room: Name=Condor2a_tp_REV_C

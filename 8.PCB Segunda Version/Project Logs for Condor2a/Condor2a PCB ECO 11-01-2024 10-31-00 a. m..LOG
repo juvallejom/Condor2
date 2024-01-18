@@ -1,0 +1,10 @@
+Added Component: Designator=C6(0402-CAP)
+Add component (AddParameter): Name = "3DR_PARTNO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARTNO"; Value = "CC0402ZRY5V7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_P$1 Pin=C6-P$1
+Added Pin To Net: NetName=GND Pin=C6-P$2
+Added Member To Class: ClassName=Condor2a_Power_Module Member=Component C6 0u1
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3

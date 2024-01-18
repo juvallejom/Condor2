@@ -1,0 +1,62 @@
+Added Component: Designator=ESC (FOXEeR REAPER)
+Added Component: Designator=M1(MR30)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=M2(MR30)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=M3(MR30)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=M4(MR30)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=ESC -8
+Added Pin To Net: NetName=NetESC _1 Pin=ESC -1
+Added Pin To Net: NetName=NetESC _1 Pin=M4-1
+Added Net: Name=NetESC _1
+Added Pin To Net: NetName=NetESC _2 Pin=ESC -2
+Added Pin To Net: NetName=NetESC _2 Pin=M4-2
+Added Net: Name=NetESC _2
+Added Pin To Net: NetName=NetESC _3 Pin=ESC -3
+Added Pin To Net: NetName=NetESC _3 Pin=M4-3
+Added Net: Name=NetESC _3
+Added Pin To Net: NetName=NetESC _4 Pin=ESC -4
+Added Pin To Net: NetName=NetESC _4 Pin=M3-1
+Added Net: Name=NetESC _4
+Added Pin To Net: NetName=NetESC _5 Pin=ESC -5
+Added Pin To Net: NetName=NetESC _5 Pin=M3-2
+Added Net: Name=NetESC _5
+Added Pin To Net: NetName=NetESC _6 Pin=ESC -6
+Added Pin To Net: NetName=NetESC _6 Pin=M3-3
+Added Net: Name=NetESC _6
+Added Pin To Net: NetName=NetESC _9 Pin=ESC -9
+Added Pin To Net: NetName=NetESC _9 Pin=M1-3
+Added Net: Name=NetESC _9
+Added Pin To Net: NetName=NetESC _10 Pin=ESC -10
+Added Pin To Net: NetName=NetESC _10 Pin=M1-2
+Added Net: Name=NetESC _10
+Added Pin To Net: NetName=NetESC _11 Pin=ESC -11
+Added Pin To Net: NetName=NetESC _11 Pin=M1-1
+Added Net: Name=NetESC _11
+Added Pin To Net: NetName=NetESC _12 Pin=ESC -12
+Added Pin To Net: NetName=NetESC _12 Pin=M2-3
+Added Net: Name=NetESC _12
+Added Pin To Net: NetName=NetESC _13 Pin=ESC -13
+Added Pin To Net: NetName=NetESC _13 Pin=M2-2
+Added Net: Name=NetESC _13
+Added Pin To Net: NetName=NetESC _14 Pin=ESC -14
+Added Pin To Net: NetName=NetESC _14 Pin=M2-1
+Added Net: Name=NetESC _14
+Added Class: Name=Condor2a_ESC
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3
+Added Room: Name=Condor2a_Pin_REV_C
+Added Room: Name=Condor2a_Plugs_REV_C
+Added Room: Name=Condor2a_Power_REV_C
+Added Room: Name=Condor2a_Servo_REV_C
+Added Room: Name=Condor2a_tp_REV_C

@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=P202 NewDesignator=P200
+Added Pin To Net: NetName=V_BATT Pin=VBATT-P$1
+Change Net Name : Old Net Name=V_CURRENT New Net Name=NetC1_P$2
+Added Pin To Net: NetName=V_CURRENT Pin=VCURR-P$1
+Added Net: Name=V_CURRENT
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3
+Added Member To Class: ClassName=Condor2a_Power_REV_C Member=Component P200 CLICKMATE_2_6
+Added Room: Name=Condor2a_Pin_REV_C
+Added Room: Name=Condor2a_Plugs_REV_C
+Added Room: Name=Condor2a_Power_REV_C
+Added Room: Name=Condor2a_Servo_REV_C
+Added Room: Name=Condor2a_tp_REV_C

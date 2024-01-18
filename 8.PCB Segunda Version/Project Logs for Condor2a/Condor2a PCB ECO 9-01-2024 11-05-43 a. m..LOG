@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=B1-4
+Removed Pin From Net: NetName=GND Pin=C1-P$2
+Removed Pin From Net: NetName=GND Pin=C7-P$2
+Removed Pin From Net: NetName=C_IN Pin=R3-P1
+Removed Pin From Net: NetName=V_CURRENT Pin=R3-P2
+Removed Pin From Net: NetName=GND Pin=R5-P1
+Removed Pin From Net: NetName=GND Pin=R6-P1
+Removed Pin From Net: NetName=GND Pin=R7-P2
+Removed Pin From Net: NetName=GND Pin=U9-3
+Removed Member From Class: ClassName=Condor2a_Current_Sensor Member=R3
+Added Pin To Net: NetName=V_CURRENT Pin=C1-P$2
+Added Pin To Net: NetName=C_IN Pin=R4-1
+Added Pin To Net: NetName=V_CURRENT Pin=R5-P1
+Added Pin To Net: NetName=V_CURRENT Pin=U9-3
+Added Pin To Net: NetName=NetB1_4 Pin=B1-4
+Added Pin To Net: NetName=NetB1_4 Pin=C7-P$2
+Added Pin To Net: NetName=NetB1_4 Pin=R6-P1
+Added Pin To Net: NetName=NetB1_4 Pin=R7-P2
+Added Net: Name=NetB1_4
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3
+Added Room: Name=Condor2a_Pin_REV_C
+Added Room: Name=Condor2a_Plugs_REV_C
+Added Room: Name=Condor2a_Power_REV_C
+Added Room: Name=Condor2a_Servo_REV_C
+Added Room: Name=Condor2a_tp_REV_C

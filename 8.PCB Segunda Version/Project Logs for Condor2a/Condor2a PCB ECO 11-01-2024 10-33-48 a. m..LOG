@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=NetC6_P$1 Pin=ESC-7
+Change Net Name : Old Net Name=NetC6_P$1 New Net Name=VOUT
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3
+Added Room: Name=Condor2a_Pin_REV_C
+Added Room: Name=Condor2a_Plugs_REV_C
+Added Room: Name=Condor2a_Power_REV_C
+Added Room: Name=Condor2a_Servo_REV_C
+Added Room: Name=Condor2a_tp_REV_C

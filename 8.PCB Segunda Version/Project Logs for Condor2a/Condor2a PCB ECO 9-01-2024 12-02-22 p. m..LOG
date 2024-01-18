@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=Condor2a_Herlink Member=J1
+Removed Member From Class: ClassName=Condor2a_Herlink Member=REG1
+Added Component: Designator=*(LM2596 DC-DC HW-411)
+Added Component: Designator=INA(Connector - Air Unir)
+Added Pin To Net: NetName=Net*_OUT+ Pin=*-OUT+
+Added Pin To Net: NetName=Net*_OUT+ Pin=INA-1
+Added Net: Name=Net*_OUT+
+Added Pin To Net: NetName=Net*_OUT- Pin=*-OUT-
+Added Pin To Net: NetName=Net*_OUT- Pin=INA-2
+Added Net: Name=Net*_OUT-
+Added Member To Class: ClassName=Condor2a_Herlink Member=Component * LM2596
+Added Member To Class: ClassName=Condor2a_Herlink Member=Component INA Connector - Air Unit
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3
+Added Room: Name=Condor2a_Pin_REV_C
+Added Room: Name=Condor2a_Plugs_REV_C
+Added Room: Name=Condor2a_Power_REV_C
+Added Room: Name=Condor2a_Servo_REV_C
+Added Room: Name=Condor2a_tp_REV_C

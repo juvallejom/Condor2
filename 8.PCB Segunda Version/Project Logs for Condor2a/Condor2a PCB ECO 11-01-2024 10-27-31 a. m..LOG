@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VOUT Pin=ESC-7
+Add Pin To Net: Unknown Pin: Pin C6-P$1
+Change Net Name : Old Net Name=VOUT New Net Name=NetC6_P$1
+Added Pin To Net: NetName=VOUT Pin=ESC-7
+Added Net: Name=VOUT
+Add Class Member: Failed to add class member : Component JP400 FIDUCIAL1.5X3
+Add Class Member: Failed to add class member : Component JP401 FIDUCIAL1.5X3
